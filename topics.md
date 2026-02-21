@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [arduino](#arduino)
 - [rust](#rust)
 - [llm](#llm)
 - [mcp](#mcp)
@@ -54,7 +55,6 @@
 - [java](#java)
 - [php](#php)
 - [machine-learning](#machine-learning)
-- [arduino](#arduino)
 - [deno](#deno)
 - [developer-tools](#developer-tools)
 - [productivity](#productivity)
@@ -155,6 +155,11 @@
 - [ui](#ui)
 - [xml](#xml)
 - [android](#android)
+
+## arduino 
+
+- [wedsamuel1230/arduino-skills](https://github.com/wedsamuel1230/arduino-skills) - Arduino/embedded systems skills and maker tools.
+- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime AI Voice Agents with SoTA Multimodal AI models on Arduino ESP32 with &gt;15 minutes uninterrupted conversations globally for AI toys, AI companions, AI devices and more
 
 ## rust 
 
@@ -763,10 +768,6 @@
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-
-## arduino 
-
-- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime AI Voice Agents with SoTA Multimodal AI models on Arduino ESP32 with &gt;15 minutes uninterrupted conversations globally for AI toys, AI companions, AI devices and more
 
 ## deno 
 
