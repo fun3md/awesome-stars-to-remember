@@ -233,7 +233,7 @@
 - [digitalknk/openclaw-runbook](https://github.com/digitalknk/openclaw-runbook) - 
 - [DatanoiseTV/tinyice](https://github.com/DatanoiseTV/tinyice) - A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support and a lot more.
 - [yzfly/Mind-Cloning-Engineering](https://github.com/yzfly/Mind-Cloning-Engineering) - MCE: Clone Human Souls with LLM Native Agent Skills | 基于 LLM Agent Skills 的心智克隆工程 | Agent Skills | Mind Skills | Mind Clone
-- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools.  All from your browser / mobile
 - [aeromomo/claw-compactor](https://github.com/aeromomo/claw-compactor) - 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques.
 - [prompt-security/clawsec](https://github.com/prompt-security/clawsec) - A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrit
@@ -568,7 +568,7 @@
 
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 206 models. 30 providers. One command to find what runs on your hardware.
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 497 models. 133 providers. One command to find what runs on your hardware.
 - [BIT-DataLab/Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) - Edit Banana: A framework for converting statistical formats into editable.
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [angrysky56/NeoCoder-neo4j-ai-workflow](https://github.com/angrysky56/NeoCoder-neo4j-ai-workflow) - An MCP server allowing AI assistants to use a Neo4j knowledge graph as their primary, dynamic instruction manual and long term project memory with adaptive templating and autonomous tool development t
