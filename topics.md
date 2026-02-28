@@ -263,7 +263,6 @@
 - [Loretta1982/xenia](https://github.com/Loretta1982/xenia) - 
 - [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) - Multi-tentacled orchestrator for Claude Code - Coordinates Codex CLI and Gemini CLI for parallel task execution with intelligent contextual routing
 - [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
-- [SecurityCrux/secrux](https://github.com/SecurityCrux/secrux) - SeCrux is a true enterprise-grade security management platform that seamlessly integrates with any form of SAST and SCA scanners, empowering them with AI capabilities. Its built-in enrichment features
 - [akinloluwami/envii](https://github.com/akinloluwami/envii) - Backup and restore environment variables across machines in seconds
 - [parcadei/llm-tldr](https://github.com/parcadei/llm-tldr) - 95% token savings. 155x faster queries. 16 languages.  LLMs can't read your entire codebase. TLDR extracts structure, traces dependencies, and gives them exactly what they need.
 - [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - 
