@@ -15,7 +15,6 @@
 - [PHP](#php)
 - [C++](#c++)
 - [Shell](#shell)
-- [Kotlin](#kotlin)
 - [Java](#java)
 - [Vue](#vue)
 - [C#](#c#)
@@ -325,10 +324,6 @@
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers.
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
-
-## Kotlin 
-
-- [SecurityCrux/secrux](https://github.com/SecurityCrux/secrux) - SeCrux is a true enterprise-grade security management platform that seamlessly integrates with any form of SAST and SCA scanners, empowering them with AI capabilities. Its built-in enrichment features
 
 ## Java 
 
