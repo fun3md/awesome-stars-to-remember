@@ -5,13 +5,13 @@
 
 ## Contents
 
+- [Go](#go)
+- [TypeScript](#typescript)
+- [HTML](#html)
 - [JavaScript](#javascript)
 - [Python](#python)
-- [TypeScript](#typescript)
-- [Go](#go)
 - [Rust](#rust)
 - [Others](#others)
-- [HTML](#html)
 - [PHP](#php)
 - [C++](#c++)
 - [Shell](#shell)
@@ -30,6 +30,128 @@
 - [Dockerfile](#dockerfile)
 - [Scala](#scala)
 - [PowerShell](#powershell)
+
+## Go 
+
+- [quailyquaily/aqua](https://github.com/quailyquaily/aqua) - Aqua, a cli message tool for AI agents
+- [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-premise file sharing made simple, fast and safe ⚡️🔐
+- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
+- [easychen/ask4me](https://github.com/easychen/ask4me) - Single request, complete the human-in-the-loop | 极简Human-in-the-Loop 方案：一个同步请求搞定一切
+- [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
+- [memohai/Memoh](https://github.com/memohai/Memoh) - Multi-Member, Structured Long-Memory, Containerized AI Agent System ✨
+- [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
+- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
+- [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
+- [nook24/lagident](https://github.com/nook24/lagident) - Lagident pings targets and collects information about response time and packet loss. Helps you identify anomalies across your network
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
+- [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills
+- [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
+- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
+- [kagent-dev/kmcp](https://github.com/kagent-dev/kmcp) - CLI tool and Kubernetes Controller for building, testing and deploying MCP servers
+- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
+- [nazar256/combine-mcp](https://github.com/nazar256/combine-mcp) - 
+- [1ARdotNO/GoPing](https://github.com/1ARdotNO/GoPing) - A lightweight REST API written in Go for performing ICMP ping tests
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
+- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [rokett/Citrix-NetScaler-Exporter](https://github.com/rokett/Citrix-NetScaler-Exporter) - Prometheus exporter for Citrix NetScaler
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
+- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
+- [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
+- [snowzach/doods](https://github.com/snowzach/doods) - DOODS - Dedicated Open Object Detection Service
+- [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
+- [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
+- [prometheus-community/avalanche](https://github.com/prometheus-community/avalanche) - Prometheus/OpenMetrics endpoint series generator for load testing.
+- [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
+- [nicholasjackson/fake-service](https://github.com/nicholasjackson/fake-service) - Simple service for testing upstream service communications
+- [barasher/file-server](https://github.com/barasher/file-server) - 
+- [barasher/picdexer](https://github.com/barasher/picdexer) - Picture library metadata management solution : stores pictures (file-server), index metadata (elasticsearch), view data (kibana)
+- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+## TypeScript 
+
+- [MeisnerDan/mission-control](https://github.com/MeisnerDan/mission-control) - Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents.
+- [flodlol/PDF-Slides-to-Handouts-Converter](https://github.com/flodlol/PDF-Slides-to-Handouts-Converter) - Privacy-first PDF handout generator – convert presentation slides into printable n-up layouts (2, 4, 6, 9 per page) using Next.js and pdf-lib.
+- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text.
+- [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-st
+- [jyoung105/frouter](https://github.com/jyoung105/frouter) - Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw
+- [mnemosynestack/doppelganger](https://github.com/mnemosynestack/doppelganger) - Doppelganger is a self-hosted, free browser automation and scraping platform built on Playwright, designed to handle everything from simple scraping to complex, human-like browser interactions.  It pr
+- [openworkflowdev/openworkflow](https://github.com/openworkflowdev/openworkflow) - Open-source TypeScript framework for building durable, resumable workflows. Supports Node.js and Bun.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+- [carlosazaustre/tenacitOS](https://github.com/carlosazaustre/tenacitOS) - OpenClaw Mission Control Dashboard
+- [botiverse/agent-vault](https://github.com/botiverse/agent-vault) - Keep your secrets hidden from AI agents.
+- [abhinavkale-dev/fynt](https://github.com/abhinavkale-dev/fynt) - Self-hostable workflow automation platform
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [Conway-Research/automaton](https://github.com/Conway-Research/automaton) - The first AI that can earn its own existence, replicate, and evolve — without needing a human
+- [remorses/termcast](https://github.com/remorses/termcast) - Turn any Raycast extension into a terminal user interface (TUI). Powered by opentui & react
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio powered by Qwen3-TTS.
+- [dabit3/agent-env](https://github.com/dabit3/agent-env) - Environment configuration management for AI agents
+- [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools.  All from your browser / mobile
+- [saifyxpro/HeadlessX](https://github.com/saifyxpro/HeadlessX) - The undetected self-hosted browser automation platform. Powered by Camoufox (Firefox) for 0% detection rates. Built for speed, privacy, and scalability.
+- [HarborGuard/HarborGuard](https://github.com/HarborGuard/HarborGuard) - Modern image vulnerability scanning & patching platform with multi-tool integration.
+- [fccview/cronmaster](https://github.com/fccview/cronmaster) - Cronjob management UI with human readable syntax, live logging and log history for your cronjobs.
+- [jgarzik/botmaker](https://github.com/jgarzik/botmaker) - UI/app to Create containerized OpenClaw bots
+- [lekt9/openclaw-foundry](https://github.com/lekt9/openclaw-foundry) - The forge that forges itself. Self-writing meta-extension for OpenClaw.ai
+- [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
+- [zuckermanai/zuckerman](https://github.com/zuckermanai/zuckerman) - Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) - Modern Kubernetes visibility. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
+- [openclaw/lobster](https://github.com/openclaw/lobster) - Lobster is a Openclaw-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Openclaw call those workflows in one st
+- [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift) - Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. MCP server for any IDE. Offline CLI.
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [Augani/openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
+- [IndAlok/rzweb](https://github.com/IndAlok/rzweb) - A complete browser-based reverse engineering platform built on Rizin, running entirely client-side via WebAssembly.
+- [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons
+- [punkpeye/pipenet](https://github.com/punkpeye/pipenet) - Expose your local server to the public internet instantly
+- [0xGF/avatar-3d](https://github.com/0xGF/avatar-3d) - 
+- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime AI Voice Agents with SoTA Multimodal AI models on Arduino ESP32 with &gt;15 minutes uninterrupted conversations globally for AI Toys, AI Companions, AI Devices and more
+- [KeaBase/kea-research](https://github.com/KeaBase/kea-research) - KEA Research - Multi-AI collaboration platform that combines responses from multiple AI models, cross-validates information, and delivers verified, consensus-backed answers.
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+- [akinloluwami/envii](https://github.com/akinloluwami/envii) - Backup and restore environment variables across machines in seconds
+- [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - 
+- [CoreWorxLab/CAAL](https://github.com/CoreWorxLab/CAAL) - Local voice assistant that learns new abilities via auto-discovered n8n workflows exposed as tools via MCP
+- [Taskosaur/Taskosaur](https://github.com/Taskosaur/Taskosaur) - Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architec
+- [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
+- [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
+- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
+- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
+- [amirrezasalimi/comfyEz](https://github.com/amirrezasalimi/comfyEz) - feature-rich web interface designed to interact with a local ComfyUI
+- [openinary/openinary](https://github.com/openinary/openinary) - The self-hostable alternative to Cloudinary
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+- [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+- [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - AI Product Design Agent - Open Source
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
+- [av/harbor](https://github.com/av/harbor) - One command brings a complete pre-wired LLM stack with hundreds of services to explore.
+- [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
+- [Netflix/nf-data-explorer](https://github.com/Netflix/nf-data-explorer) - The Data Explorer gives you fast, safe access to data stored in Cassandra, Dynomite, and Redis.
+- [opstrace/opstrace](https://github.com/opstrace/opstrace) - The Open Source Observability Distribution
+- [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
+- [NarrativeScience-old/log.io](https://github.com/NarrativeScience-old/log.io) - Real-time log monitoring in your browser
+
+## HTML 
+
+- [xjtulyc/MedgeClaw](https://github.com/xjtulyc/MedgeClaw) - Open-source AI research assistant for biomedicine — chat to run RNA-seq, drug discovery, clinical analysis, and more. Built on Claude Code with 140 K-Dense scientific skills, real-time dashboard, and 
+- [DatanoiseTV/tinyice](https://github.com/DatanoiseTV/tinyice) - A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support and a lot more.
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
+- [h9zdev/GeoSentinel](https://github.com/h9zdev/GeoSentinel) - **GeoSentinel** is a geospatial monitoring platform that tracks global movement in real time.  It aggregates ship and flight routes, live coordinates, and geodata into a unified system, providing clea
+- [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
+- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
+- [erew123/alltalk_tts](https://github.com/erew123/alltalk_tts) - AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, Deep
+- [yakivmospan/github-wikito-converter](https://github.com/yakivmospan/github-wikito-converter) - Generate HTML & PDF documentation from Github wiki or any other markdown-based wiki.
 
 ## JavaScript 
 
@@ -169,118 +291,13 @@
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [dheera/mnist-clock](https://github.com/dheera/mnist-clock) - A clock that displays digits using randomly selected MNIST digits.
 
-## TypeScript 
-
-- [mnemosynestack/doppelganger](https://github.com/mnemosynestack/doppelganger) - Doppelganger is a self-hosted, free browser automation and scraping platform built on Playwright, designed to handle everything from simple scraping to complex, human-like browser interactions.  It pr
-- [openworkflowdev/openworkflow](https://github.com/openworkflowdev/openworkflow) - Open-source TypeScript framework for building durable, resumable workflows. Supports Node.js and Bun.
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [carlosazaustre/tenacitOS](https://github.com/carlosazaustre/tenacitOS) - OpenClaw Mission Control Dashboard
-- [botiverse/agent-vault](https://github.com/botiverse/agent-vault) - Keep your secrets hidden from AI agents.
-- [abhinavkale-dev/fynt](https://github.com/abhinavkale-dev/fynt) - Self-hostable workflow automation platform
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
-- [Conway-Research/automaton](https://github.com/Conway-Research/automaton) - The first AI that can earn its own existence, replicate, and evolve — without needing a human
-- [remorses/termcast](https://github.com/remorses/termcast) - Turn any Raycast extension into a terminal user interface (TUI). Powered by opentui & react
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio powered by Qwen3-TTS.
-- [dabit3/agent-env](https://github.com/dabit3/agent-env) - Environment configuration management for AI agents
-- [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools.  All from your browser / mobile
-- [saifyxpro/HeadlessX](https://github.com/saifyxpro/HeadlessX) - The undetected self-hosted browser automation platform. Powered by Camoufox (Firefox) for 0% detection rates. Built for speed, privacy, and scalability.
-- [HarborGuard/HarborGuard](https://github.com/HarborGuard/HarborGuard) - Modern image vulnerability scanning & patching platform with multi-tool integration.
-- [fccview/cronmaster](https://github.com/fccview/cronmaster) - Cronjob management UI with human readable syntax, live logging and log history for your cronjobs.
-- [jgarzik/botmaker](https://github.com/jgarzik/botmaker) - UI/app to Create containerized OpenClaw bots
-- [lekt9/openclaw-foundry](https://github.com/lekt9/openclaw-foundry) - The forge that forges itself. Self-writing meta-extension for OpenClaw.ai
-- [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
-- [zuckermanai/zuckerman](https://github.com/zuckermanai/zuckerman) - Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need
-- [skyhook-io/radar](https://github.com/skyhook-io/radar) - Modern Kubernetes visibility. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
-- [openclaw/lobster](https://github.com/openclaw/lobster) - Lobster is a Openclaw-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Openclaw call those workflows in one st
-- [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift) - Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. MCP server for any IDE. Offline CLI.
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [Augani/openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
-- [IndAlok/rzweb](https://github.com/IndAlok/rzweb) - A complete browser-based reverse engineering platform built on Rizin, running entirely client-side via WebAssembly.
-- [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons
-- [punkpeye/pipenet](https://github.com/punkpeye/pipenet) - Expose your local server to the public internet instantly
-- [0xGF/avatar-3d](https://github.com/0xGF/avatar-3d) - 
-- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime AI Voice Agents with SoTA Multimodal AI models on Arduino ESP32 with &gt;15 minutes uninterrupted conversations globally for AI Toys, AI Companions, AI Devices and more
-- [KeaBase/kea-research](https://github.com/KeaBase/kea-research) - KEA Research - Multi-AI collaboration platform that combines responses from multiple AI models, cross-validates information, and delivers verified, consensus-backed answers.
-- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [akinloluwami/envii](https://github.com/akinloluwami/envii) - Backup and restore environment variables across machines in seconds
-- [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - 
-- [CoreWorxLab/CAAL](https://github.com/CoreWorxLab/CAAL) - Local voice assistant that learns new abilities via auto-discovered n8n workflows exposed as tools via MCP
-- [Taskosaur/Taskosaur](https://github.com/Taskosaur/Taskosaur) - Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architec
-- [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
-- [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
-- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
-- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
-- [amirrezasalimi/comfyEz](https://github.com/amirrezasalimi/comfyEz) - feature-rich web interface designed to interact with a local ComfyUI
-- [openinary/openinary](https://github.com/openinary/openinary) - The self-hostable alternative to Cloudinary
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
-- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
-- [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - AI Product Design Agent - Open Source
-- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
-- [av/harbor](https://github.com/av/harbor) - One command brings a complete pre-wired LLM stack with hundreds of services to explore.
-- [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [Netflix/nf-data-explorer](https://github.com/Netflix/nf-data-explorer) - The Data Explorer gives you fast, safe access to data stored in Cassandra, Dynomite, and Redis.
-- [opstrace/opstrace](https://github.com/opstrace/opstrace) - The Open Source Observability Distribution
-- [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
-- [NarrativeScience-old/log.io](https://github.com/NarrativeScience-old/log.io) - Real-time log monitoring in your browser
-
-## Go 
-
-- [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-premise file sharing made simple, fast and safe ⚡️🔐
-- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
-- [easychen/ask4me](https://github.com/easychen/ask4me) - Single request, complete the human-in-the-loop | 极简Human-in-the-Loop 方案：一个同步请求搞定一切
-- [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
-- [memohai/Memoh](https://github.com/memohai/Memoh) - Multi-Member, Structured Long-Memory, Containerized AI Agent System ✨
-- [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
-- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-- [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
-- [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
-- [nook24/lagident](https://github.com/nook24/lagident) - Lagident pings targets and collects information about response time and packet loss. Helps you identify anomalies across your network
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
-- [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills
-- [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
-- [kagent-dev/kmcp](https://github.com/kagent-dev/kmcp) - CLI tool and Kubernetes Controller for building, testing and deploying MCP servers
-- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
-- [nazar256/combine-mcp](https://github.com/nazar256/combine-mcp) - 
-- [1ARdotNO/GoPing](https://github.com/1ARdotNO/GoPing) - A lightweight REST API written in Go for performing ICMP ping tests
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
-- [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
-- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-- [rokett/Citrix-NetScaler-Exporter](https://github.com/rokett/Citrix-NetScaler-Exporter) - Prometheus exporter for Citrix NetScaler
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
-- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
-- [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
-- [snowzach/doods](https://github.com/snowzach/doods) - DOODS - Dedicated Open Object Detection Service
-- [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
-- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
-- [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
-- [prometheus-community/avalanche](https://github.com/prometheus-community/avalanche) - Prometheus/OpenMetrics endpoint series generator for load testing.
-- [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
-- [nicholasjackson/fake-service](https://github.com/nicholasjackson/fake-service) - Simple service for testing upstream service communications
-- [barasher/file-server](https://github.com/barasher/file-server) - 
-- [barasher/picdexer](https://github.com/barasher/picdexer) - Picture library metadata management solution : stores pictures (file-server), index metadata (elasticsearch), view data (kibana)
-- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-
 ## Rust 
 
 - [zhixianio/clawpal](https://github.com/zhixianio/clawpal) - ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand.
 - [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds models & providers. One command to find what runs on your hardware.
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
@@ -297,16 +314,6 @@
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [tgreiser/etherdream-touch-designer](https://github.com/tgreiser/etherdream-touch-designer) - Laser control code and examples for EtherDream and TouchDesigner
 - [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 8th gen or AMD Ryzen
-
-## HTML 
-
-- [DatanoiseTV/tinyice](https://github.com/DatanoiseTV/tinyice) - A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support and a lot more.
-- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
-- [h9zdev/GeoSentinel](https://github.com/h9zdev/GeoSentinel) - **GeoSentinel** is a geospatial monitoring platform that tracks global movement in real time.  It aggregates ship and flight routes, live coordinates, and geodata into a unified system, providing clea
-- [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
-- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
-- [erew123/alltalk_tts](https://github.com/erew123/alltalk_tts) - AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, Deep
-- [yakivmospan/github-wikito-converter](https://github.com/yakivmospan/github-wikito-converter) - Generate HTML & PDF documentation from Github wiki or any other markdown-based wiki.
 
 ## PHP 
 
