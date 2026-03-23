@@ -61,6 +61,7 @@
 - [generative-ai](#generative-ai)
 - [education](#education)
 - [nextjs](#nextjs)
+- [publishing](#publishing)
 - [golang](#golang)
 - [chrome](#chrome)
 - [github](#github)
@@ -221,7 +222,6 @@
 - [tanishqkumar/ssd](https://github.com/tanishqkumar/ssd) - A lightweight inference engine supporting speculative speculative decoding (SSD).
 - [vercel-labs/openreview](https://github.com/vercel-labs/openreview) - An open-source, self-hosted AI code review bot powered by Vercel.
 - [MeisnerDan/mission-control](https://github.com/MeisnerDan/mission-control) - Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents.
-- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - A pure-JS, tiny typesetting engine with bit-perfect PDF output on everything—from Cloudflare Workers to the browser. No more Headless Chrome to just print text. AND -- try the static demos on the home
 - [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style
 - [jyoung105/frouter](https://github.com/jyoung105/frouter) - Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw
 - [xjtulyc/MedgeClaw](https://github.com/xjtulyc/MedgeClaw) - Open-source AI research assistant for biomedicine — chat to run RNA-seq, drug discovery, clinical analysis, and more. Built on Claude Code with 140 K-Dense scientific skills, real-time dashboard, and 
@@ -601,6 +601,7 @@
 - [tomehq/tome](https://github.com/tomehq/tome) - Beautiful documentation that doesn't cost a fortune. Open-source with all of your favorite features.
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 - [flodlol/PDF-Slides-to-Handouts-Converter](https://github.com/flodlol/PDF-Slides-to-Handouts-Converter) - Privacy-first PDF handout generator – convert presentation slides into printable n-up layouts (2, 4, 6, 9 per page) using Next.js and pdf-lib.
+- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - What if your documents could react to their own layout? VMPrint is a patent-pending spatial-temporal layout engine for JavaScript — PDF, canvas, Cloudflare Workers, the browser. Real typesetting witho
 - [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
 - [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
 - [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
@@ -793,6 +794,7 @@
 
 - [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) - Open-Source Generative UI Framework
 - [tomehq/tome](https://github.com/tomehq/tome) - Beautiful documentation that doesn't cost a fortune. Open-source with all of your favorite features.
+- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - What if your documents could react to their own layout? VMPrint is a patent-pending spatial-temporal layout engine for JavaScript — PDF, canvas, Cloudflare Workers, the browser. Real typesetting witho
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [dimartarmizi/map-to-poster](https://github.com/dimartarmizi/map-to-poster) - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.
 - [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
@@ -960,6 +962,10 @@
 - [flodlol/PDF-Slides-to-Handouts-Converter](https://github.com/flodlol/PDF-Slides-to-Handouts-Converter) - Privacy-first PDF handout generator – convert presentation slides into printable n-up layouts (2, 4, 6, 9 per page) using Next.js and pdf-lib.
 - [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
 - [Taskosaur/Taskosaur](https://github.com/Taskosaur/Taskosaur) - Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architec
+
+## publishing 
+
+- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - What if your documents could react to their own layout? VMPrint is a patent-pending spatial-temporal layout engine for JavaScript — PDF, canvas, Cloudflare Workers, the browser. Real typesetting witho
 
 ## golang 
 
