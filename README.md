@@ -5,9 +5,9 @@
 
 ## Contents
 
+- [TypeScript](#typescript)
 - [Dockerfile](#dockerfile)
 - [JavaScript](#javascript)
-- [TypeScript](#typescript)
 - [Python](#python)
 - [Rust](#rust)
 - [Java](#java)
@@ -18,9 +18,9 @@
 - [Objective-C](#objective-c)
 - [C++](#c++)
 - [Swift](#swift)
+- [TeX](#tex)
 - [Svelte](#svelte)
 - [Elixir](#elixir)
-- [TeX](#tex)
 - [PHP](#php)
 - [Vue](#vue)
 - [C#](#c#)
@@ -35,55 +35,11 @@
 - [Scala](#scala)
 - [PowerShell](#powershell)
 
-## Dockerfile 
-
-- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools
-- [paulhkim80/agones-example-minetest](https://github.com/paulhkim80/agones-example-minetest) - Dedicated Minetest Game Server hosting on Kubernetes using Agones
-
-## JavaScript 
-
-- [andes90/collabmd](https://github.com/andes90/collabmd) - Realtime collaboration for markdown folders, diagrams, and git-backed docs.
-- [louisnelza/stayview](https://github.com/louisnelza/stayview) - A self-hosted dashboard that aggregates bookings from Airbnb, Booking.com, and Lekkeslaap into one place.
-- [mauriceboe/NOMAD](https://github.com/mauriceboe/NOMAD) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
-- [liliMozi/openhanako](https://github.com/liliMozi/openhanako) - A personal AI agent with memory, personality, and autonomy — built on Electron.
-- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - An alternative to React-PDF — render multi-page documents anywhere. Preview on canvas and export to PDF/SVG from the same layout — no PDF.js, no React, no server. Pure JS, no dependencies. ~1.7MB. htt
-- [MatiasDesuu/ThinkDashboard](https://github.com/MatiasDesuu/ThinkDashboard) - A lightweight, self-hosted bookmark dashboard with keyboard shortcuts.
-- [asdfghj1237890/WebVideo2NAS](https://github.com/asdfghj1237890/WebVideo2NAS) - A lightweight browser-to-NAS pipeline for capturing and downloading web videos. It integrates a Chrome Extension with a NAS-hosted Docker backend (FastAPI, workers, FFmpeg) to automatically detect, qu
-- [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - An open source, self-hosted, real-time port monitoring and discovery tool.
-- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 174 FREE coding LLM models across 23 providers in real time
-- [Brisk4t/ToothPaste](https://github.com/Brisk4t/ToothPaste) - Secure Wireless Data-Transfer over BLE and USB for Passwords, Pentesting and Media Control.
-- [vikasprogrammer/walkie](https://github.com/vikasprogrammer/walkie) - P2P communication for AI agents. No server. No setup. Just talk.
-- [dimartarmizi/map-to-poster](https://github.com/dimartarmizi/map-to-poster) - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.
-- [prompt-security/clawsec](https://github.com/prompt-security/clawsec) - A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrit
-- [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
-- [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) - Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
-- [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
-- [shanselman/cert-inspector](https://github.com/shanselman/cert-inspector) - 🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser.
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-- [farinchan/chatery_whatsapp](https://github.com/farinchan/chatery_whatsapp) - A powerful WhatsApp API backend built with Express.js and Baileys library. Supports multi-session management, real-time WebSocket events, group management, and media handling.
-- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
-- [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
-- [mallahyari/system-design-visualizer](https://github.com/mallahyari/system-design-visualizer) - An interactive tool that transforms static system design diagrams into explorable, interactive visualizations using AI.
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
-- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager & storage hub with granular ACLs, resumable uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
-- [hexdocom/lemonai](https://github.com/hexdocom/lemonai) - Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI_c
-- [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
-- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
-- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
-- [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report
-- [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
-- [sebo-b/warp](https://github.com/sebo-b/warp) - Workspace Autonomous Reservation Program - a system to help you efficiently manage hybrid (assigned, hot-desks, etc) office space.
-- [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
-- [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
-- [sivasamyk/logtrail](https://github.com/sivasamyk/logtrail) - Kibana plugin to view, search & live tail log events
-
 ## TypeScript 
 
+- [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [tiehfood/xpferd](https://github.com/tiehfood/xpferd) - Simple app to design single page invoices and export XRechnung and ZUGFeRD conform files
+- [mauriceboe/NOMAD](https://github.com/mauriceboe/NOMAD) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [trentferguson/homescreen-hero](https://github.com/trentferguson/homescreen-hero) - self-hosted Plex companion app with homescreen management, server insights, and useful tools, all in a sleek web dashboard
 - [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly) - The personal retro game collection cabinet in your browser. Join us on Discord https://discord.gg/gwaKRAYG6t
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
@@ -185,10 +141,55 @@
 - [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
 - [NarrativeScience-old/log.io](https://github.com/NarrativeScience-old/log.io) - Real-time log monitoring in your browser
 
+## Dockerfile 
+
+- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools
+- [paulhkim80/agones-example-minetest](https://github.com/paulhkim80/agones-example-minetest) - Dedicated Minetest Game Server hosting on Kubernetes using Agones
+
+## JavaScript 
+
+- [andes90/collabmd](https://github.com/andes90/collabmd) - Realtime collaboration for markdown folders, diagrams, and git-backed docs.
+- [louisnelza/stayview](https://github.com/louisnelza/stayview) - A self-hosted dashboard that aggregates bookings from Airbnb, Booking.com, and Lekkeslaap into one place.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
+- [liliMozi/openhanako](https://github.com/liliMozi/openhanako) - A personal AI agent with memory, personality, and autonomy — built on Electron.
+- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - An alternative to React-PDF — render multi-page documents anywhere. Preview on canvas and export to PDF/SVG from the same layout — no PDF.js, no React, no server. Pure JS, no dependencies. ~1.7MB. htt
+- [MatiasDesuu/ThinkDashboard](https://github.com/MatiasDesuu/ThinkDashboard) - A lightweight, self-hosted bookmark dashboard with keyboard shortcuts.
+- [asdfghj1237890/WebVideo2NAS](https://github.com/asdfghj1237890/WebVideo2NAS) - A lightweight browser-to-NAS pipeline for capturing and downloading web videos. It integrates a Chrome Extension with a NAS-hosted Docker backend (FastAPI, workers, FFmpeg) to automatically detect, qu
+- [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - An open source, self-hosted, real-time port monitoring and discovery tool.
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 174 FREE coding LLM models across 23 providers in real time
+- [Brisk4t/ToothPaste](https://github.com/Brisk4t/ToothPaste) - Secure Wireless Data-Transfer over BLE and USB for Passwords, Pentesting and Media Control.
+- [vikasprogrammer/walkie](https://github.com/vikasprogrammer/walkie) - P2P communication for AI agents. No server. No setup. Just talk.
+- [dimartarmizi/map-to-poster](https://github.com/dimartarmizi/map-to-poster) - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.
+- [prompt-security/clawsec](https://github.com/prompt-security/clawsec) - A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrit
+- [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
+- [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) - Battle-tested AI workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio.
+- [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
+- [shanselman/cert-inspector](https://github.com/shanselman/cert-inspector) - 🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser.
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- [farinchan/chatery_whatsapp](https://github.com/farinchan/chatery_whatsapp) - A powerful WhatsApp API backend built with Express.js and Baileys library. Supports multi-session management, real-time WebSocket events, group management, and media handling.
+- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
+- [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
+- [mallahyari/system-design-visualizer](https://github.com/mallahyari/system-design-visualizer) - An interactive tool that transforms static system design diagrams into explorable, interactive visualizations using AI.
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager & storage hub with granular ACLs, resumable uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
+- [hexdocom/lemonai](https://github.com/hexdocom/lemonai) - Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI_c
+- [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
+- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
+- [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report
+- [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
+- [sebo-b/warp](https://github.com/sebo-b/warp) - Workspace Autonomous Reservation Program - a system to help you efficiently manage hybrid (assigned, hot-desks, etc) office space.
+- [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
+- [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+- [sivasamyk/logtrail](https://github.com/sivasamyk/logtrail) - Kibana plugin to view, search & live tail log events
+
 ## Python 
 
 - [toorandom/malhaus](https://github.com/toorandom/malhaus) - Self-hosted malware static triage platform powered by LLMs
-- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - 
+- [Nahuel990/ministack](https://github.com/Nahuel990/ministack) - Ministack: the free LocalStack replacement
 - [volcengine/MineContext](https://github.com/volcengine/MineContext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
 - [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The context development platform. Store, enrich, and retrieve structured knowledge with graph-native infrastructure, semantic retrieval, and portable context cores.
 - [joshndala/mnemo-agent](https://github.com/joshndala/mnemo-agent) - 
@@ -205,7 +206,6 @@
 - [bcurts/agentchattr](https://github.com/bcurts/agentchattr) - Free, local chat where AI coding agents can tag each other, talk, and coordinate with you.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw) - 🦞 Just talk to your agent — it learns and EVOLVES 🧬.
-- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) - Personal AI, On Personal Devices
 - [MindLab-Research/mindlab-toolkit](https://github.com/MindLab-Research/mindlab-toolkit) - Python toolkit for MinT, the open infrastructure for experiential intelligence and LoRA RL.
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
@@ -235,7 +235,7 @@
 - [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
 - [JonathonLuiten/Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) - 
 - [BIT-DataLab/Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) - Edit Banana: A framework for converting statistical formats into editable.
-- [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework that evolves
+- [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework and runtime harness
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: AI-Powered Personalized Learning Assistant"
@@ -358,7 +358,7 @@
 - [buildoak/wet](https://github.com/buildoak/wet) - wet claude. Wringing Excess Tokens - transparent API proxy that compresses stale tool results in Claude Code sessions
 - [dougdonohoe/ddphotos](https://github.com/dougdonohoe/ddphotos) - A photo album site generator and SvelteKit viewer: resize JPEGs to WebP, generate JSON indexes, and serve a fast static photo gallery.
 - [bodaay/HuggingFaceModelDownloader](https://github.com/bodaay/HuggingFaceModelDownloader) - Simple go utility to download HuggingFace Models and Datasets
-- [phlx0/drift](https://github.com/phlx0/drift) - Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume.
+- [phlx0/drift](https://github.com/phlx0/drift) - Terminal screensaver that activates when you're idle — constellations, rain, particles & more. Press any key to resume.
 - [Compresr-ai/Context-Gateway](https://github.com/Compresr-ai/Context-Gateway) - Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools
 - [antflydb/antfly](https://github.com/antflydb/antfly) - 
 - [sympozium-ai/sympozium](https://github.com/sympozium-ai/sympozium) - Run a fleet of AI agents on Kubernetes. Administer your cluster agentically
@@ -465,6 +465,11 @@
 
 - [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
 
+## TeX 
+
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
+- [xjtulyc/MedgeClaw](https://github.com/xjtulyc/MedgeClaw) - Open-source AI research assistant for biomedicine — chat to run RNA-seq, drug discovery, clinical analysis, and more. Built on Claude Code with 140 K-Dense scientific skills, real-time dashboard, and 
+
 ## Svelte 
 
 - [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
@@ -473,10 +478,6 @@
 
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [getmydia/mydia](https://github.com/getmydia/mydia) - Your personal media companion, built with Phoenix LiveView
-
-## TeX 
-
-- [xjtulyc/MedgeClaw](https://github.com/xjtulyc/MedgeClaw) - Open-source AI research assistant for biomedicine — chat to run RNA-seq, drug discovery, clinical analysis, and more. Built on Claude Code with 140 K-Dense scientific skills, real-time dashboard, and 
 
 ## PHP 
 
