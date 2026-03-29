@@ -5,12 +5,12 @@
 
 ## Contents
 
+- [Rust](#rust)
 - [TypeScript](#typescript)
 - [Python](#python)
 - [JavaScript](#javascript)
 - [HTML](#html)
 - [Others](#others)
-- [Rust](#rust)
 - [Dockerfile](#dockerfile)
 - [Java](#java)
 - [Go](#go)
@@ -35,8 +35,34 @@
 - [Scala](#scala)
 - [PowerShell](#powershell)
 
+## Rust 
+
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.
+- [crabtalk/crabtalk](https://github.com/crabtalk/crabtalk) - Agents daemon that hides nothing
+- [silvermpx/mamba-rs](https://github.com/silvermpx/mamba-rs) - Mamba SSM in Rust with CUDA. Training + inference, forward + backward (BPTT), burn-in, custom CUDA kernels.
+- [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
+- [matrixorigin/Memoria](https://github.com/matrixorigin/Memoria) - Secure memory management for AI Agents • Ensures data integrity • Reduces hallucinations • Maintains consistent long-term context
+- [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
+- [juyterman1000/ebbiforge](https://github.com/juyterman1000/ebbiforge) - Ebbiforge: 10 Million agents. Zero LLM cost. Rust-core swarm intelligence that outperforms traditional frameworks on 8 fundamental benchmarks.
+- [aleris/woti](https://github.com/aleris/woti) - World Time TUI
+- [fabro-sh/fabro](https://github.com/fabro-sh/fabro) - ⚒️ The open source dark software factory for expert engineers.
+- [temm1e-labs/temm1e](https://github.com/temm1e-labs/temm1e) - Radically Innovative AI Agent. Free and Open Source Forever.
+- [yologdev/yoyo-evolve](https://github.com/yologdev/yoyo-evolve) - A coding agent that evolves itself. One commit per day.
+- [AlpinDale/parsync](https://github.com/AlpinDale/parsync) - Parallel rsync-like pull sync over SSH with resume
+- [lay2dev/clawpal](https://github.com/lay2dev/clawpal) - ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand.
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
+- [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
+- [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
+- [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
+- [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
+
 ## TypeScript 
 
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [danielmiessler/Ladder](https://github.com/danielmiessler/Ladder) - A system for autonomous creation and optimization.
 - [Michaelliv/markit](https://github.com/Michaelliv/markit) - 🖍️ Convert anything to markdown. Mark it.
@@ -149,6 +175,7 @@
 
 ## Python 
 
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,326+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [aaronjmars/MiroShark](https://github.com/aaronjmars/MiroShark) - Universal Swarm Intelligence Engine
@@ -366,30 +393,6 @@
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [tgreiser/etherdream-touch-designer](https://github.com/tgreiser/etherdream-touch-designer) - Laser control code and examples for EtherDream and TouchDesigner
 - [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 8th gen or AMD Ryzen
-
-## Rust 
-
-- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies.
-- [crabtalk/crabtalk](https://github.com/crabtalk/crabtalk) - Agents daemon that hides nothing
-- [silvermpx/mamba-rs](https://github.com/silvermpx/mamba-rs) - Mamba SSM in Rust with CUDA. Training + inference, forward + backward (BPTT), burn-in, custom CUDA kernels.
-- [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
-- [matrixorigin/Memoria](https://github.com/matrixorigin/Memoria) - Secure memory management for AI Agents • Ensures data integrity • Reduces hallucinations • Maintains consistent long-term context
-- [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
-- [juyterman1000/ebbiforge](https://github.com/juyterman1000/ebbiforge) - Ebbiforge: 10 Million agents. Zero LLM cost. Rust-core swarm intelligence that outperforms traditional frameworks on 8 fundamental benchmarks.
-- [aleris/woti](https://github.com/aleris/woti) - World Time TUI
-- [fabro-sh/fabro](https://github.com/fabro-sh/fabro) - ⚒️ The open source dark software factory for expert engineers.
-- [temm1e-labs/temm1e](https://github.com/temm1e-labs/temm1e) - Radically Innovative AI Agent. Free and Open Source Forever.
-- [yologdev/yoyo-evolve](https://github.com/yologdev/yoyo-evolve) - A coding agent that evolves itself. One commit per day.
-- [AlpinDale/parsync](https://github.com/AlpinDale/parsync) - Parallel rsync-like pull sync over SSH with resume
-- [lay2dev/clawpal](https://github.com/lay2dev/clawpal) - ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand.
-- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
-- [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
-- [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
-- [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
-- [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 
 ## Dockerfile 
 
