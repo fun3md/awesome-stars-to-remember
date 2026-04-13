@@ -76,7 +76,6 @@
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
 - [liliMozi/openhanako](https://github.com/liliMozi/openhanako) - A personal AI agent with memory, personality, and autonomy — built on Electron.
-- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - An alternative to React-PDF — render multi-page documents anywhere. Preview on canvas and export to PDF/SVG from the same layout — no PDF.js, no React, no server. Pure JS, no dependencies. ~1.7MB. htt
 - [MatiasDesuu/ThinkDashboard](https://github.com/MatiasDesuu/ThinkDashboard) - A lightweight, self-hosted bookmark dashboard with keyboard shortcuts.
 - [asdfghj1237890/WebVideo2NAS](https://github.com/asdfghj1237890/WebVideo2NAS) - A lightweight browser-to-NAS pipeline for capturing and downloading web videos. It integrates a Chrome Extension with a NAS-hosted Docker backend (FastAPI, workers, FFmpeg) to automatically detect, qu
 - [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - An open source, self-hosted, real-time port monitoring and discovery tool.
@@ -111,7 +110,7 @@
 
 ## TypeScript 
 
-- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Design engine that makes AI code like a UI/UX designer. Pick any brand skin, get professional UI.
+- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Claude Code & Cursor design system. Stop generating ugly AI UI. 69 design rules + 48 shadcn components + Toss/Stripe/Linear/Vercel/Notion brand skins. Tailwind v4 + Radix.
 - [MagicCube/helixent](https://github.com/MagicCube/helixent) - Helixent is a small library for building ReAct-style agent loops based on the Bun stack.
 - [millionco/debug-agent](https://github.com/millionco/debug-agent) - Debugging skill for AI agents
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
@@ -170,7 +169,7 @@
 - [mem9-ai/mem9](https://github.com/mem9-ai/mem9) - Unlimited memory for OpenClaw
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Graphs that teach &gt; graphs that impress. Works with Claud
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud
 - [Kong/volcano-agent-sdk](https://github.com/Kong/volcano-agent-sdk) - 🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [deta/surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
@@ -186,6 +185,7 @@
 - [vercel-labs/openreview](https://github.com/vercel-labs/openreview) - An open-source, self-hosted AI code review bot powered by Vercel.
 - [MeisnerDan/mission-control](https://github.com/MeisnerDan/mission-control) - Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents.
 - [flodlol/PDF-Slides-to-Handouts-Converter](https://github.com/flodlol/PDF-Slides-to-Handouts-Converter) - Privacy-first PDF handout generator – convert presentation slides into printable n-up layouts (2, 4, 6, 9 per page) using Next.js and pdf-lib.
+- [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - An alternative to React-PDF — render multi-page documents anywhere. Preview on canvas and export to PDF/SVG from the same layout — no PDF.js, no React, no server. Pure JS, no dependencies. ~1.7MB. htt
 - [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style
 - [jyoung105/frouter](https://github.com/jyoung105/frouter) - Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw
 - [figranium/figranium](https://github.com/figranium/figranium) - Build complex browser workflows visually and execute them via API.
@@ -370,7 +370,7 @@
 - [EverM0re/EraRAG-Official](https://github.com/EverM0re/EraRAG-Official) - [arXiv'25] EraRAG: Efficient and Incremental Retrieval-Augmented Generation for Growing Corpora
 - [brendanhogan/loophole](https://github.com/brendanhogan/loophole) - 
 - [math-ai-org/mathcode](https://github.com/math-ai-org/mathcode) - MathCode: A Frontier Mathematical Coding Agent
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
 - [VictoriaMetrics/skills](https://github.com/VictoriaMetrics/skills) - The official Agent Skills for VictoriaMetrics products
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
@@ -569,7 +569,7 @@
 - [matrixorigin/Memoria](https://github.com/matrixorigin/Memoria) - Secure memory management for AI Agents • Ensures data integrity • Reduces hallucinations • Maintains consistent long-term context
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [juyterman1000/ebbiforge](https://github.com/juyterman1000/ebbiforge) - Ebbiforge: 10 Million agents. Zero LLM cost. Rust-core swarm intelligence that outperforms traditional frameworks on 8 fundamental benchmarks.
-- [juyterman1000/entroly](https://github.com/juyterman1000/entroly) - Entroly: Stop overfeeding your AI. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Copilot.
+- [juyterman1000/entroly](https://github.com/juyterman1000/entroly) - Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Copilot.
 - [aleris/woti](https://github.com/aleris/woti) - World Time TUI
 - [fabro-sh/fabro](https://github.com/fabro-sh/fabro) - ⚒️ The open source dark software factory for expert engineers.
 - [temm1e-labs/temm1e](https://github.com/temm1e-labs/temm1e) - One of the ground zero for AGI, maybe, probably. Free and Open Source forever and ever!
@@ -607,7 +607,7 @@
 
 ## C# # 
 
-- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best command-line tool purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation re
+- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [melodee-project/melodee](https://github.com/melodee-project/melodee) - Industrial grade self-hosted streaming music server.
 
 ## CSS 
