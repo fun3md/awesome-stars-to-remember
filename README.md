@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Ruby](#ruby)
 - [Go](#go)
 - [JavaScript](#javascript)
 - [TypeScript](#typescript)
@@ -21,7 +22,6 @@
 - [PHP](#php)
 - [C#](#c#)
 - [CSS](#css)
-- [Jinja](#jinja)
 - [Dockerfile](#dockerfile)
 - [Objective-C](#objective-c)
 - [Svelte](#svelte)
@@ -31,10 +31,18 @@
 - [QML](#qml)
 - [Astro](#astro)
 - [Clojure](#clojure)
-- [Ruby](#ruby)
 - [Smarty](#smarty)
 - [Scala](#scala)
 - [PowerShell](#powershell)
+
+## Ruby 
+
+- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
+- [Lakr233/GitLab-License-Generator](https://github.com/Lakr233/GitLab-License-Generator) - Generate GitLab License For Self-Hosted/Private Instances
+- [fe1ixxu/ALMA](https://github.com/fe1ixxu/ALMA) - State-of-the-art LLM-based translation models.
+- [boltops-tools/terraspace](https://github.com/boltops-tools/terraspace) - Terraspace: The Terraform Framework
+- [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
+- [joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon) - Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
 
 ## Go 
 
@@ -264,7 +272,7 @@
 - [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons
 - [punkpeye/pipenet](https://github.com/punkpeye/pipenet) - Expose your local server to the public internet instantly
 - [0xGF/avatar-3d](https://github.com/0xGF/avatar-3d) - 
-- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime Voice AI on Arduino ESP32 with OpenAI Realtime, Gemini, Grok, Eleven Labs with &gt;15 minutes uninterrupted conversations globally for AI Toys, Companions, and Devices
+- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime Voice AI with 100+ Models on Arduino ESP32 for AI Toys, Companions, and Devices
 - [KeaBase/kea-research](https://github.com/KeaBase/kea-research) - KEA Research - Multi-AI collaboration platform that combines responses from multiple AI models, cross-validates information, and delivers verified, consensus-backed answers.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [akinloluwami/envii](https://github.com/akinloluwami/envii) - Backup and restore environment variables across machines in seconds
@@ -597,6 +605,7 @@
 - [zanwei/design-dna](https://github.com/zanwei/design-dna) - Turn reference UIs (images, screenshots, URLs) into quantified Design DNA JSON—tokens, qualitative style, visual effects—then generate matching UI from your content.
 - [realkimbarrett/advertising-skills](https://github.com/realkimbarrett/advertising-skills) - Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems.
 - [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
+- [hyperspaceai/agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your brow
 - [oguzbilgic/agent-kernel](https://github.com/oguzbilgic/agent-kernel) - Minimal kernel to make any AI coding agent stateful. Clone, point your agent, go.
 - [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) - A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
 - [bentossell/visualise](https://github.com/bentossell/visualise) - Agent skill for rendering inline interactive visuals — SVG diagrams, HTML widgets, charts, and explainers — in agent conversations.
@@ -639,10 +648,6 @@
 
 - [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 
-## Jinja 
-
-- [hyperspaceai/agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your brow
-
 ## Dockerfile 
 
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 7 AI CLIs + headless browser + 50+ tools
@@ -682,14 +687,6 @@
 ## Clojure 
 
 - [erdos/stencil](https://github.com/erdos/stencil) - templating engine for DOCX and PPTX files
-
-## Ruby 
-
-- [Lakr233/GitLab-License-Generator](https://github.com/Lakr233/GitLab-License-Generator) - Generate GitLab License For Self-Hosted/Private Instances
-- [fe1ixxu/ALMA](https://github.com/fe1ixxu/ALMA) - State-of-the-art LLM-based translation models.
-- [boltops-tools/terraspace](https://github.com/boltops-tools/terraspace) - Terraspace: The Terraform Framework
-- [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
-- [joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon) - Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
 
 ## Smarty 
 
