@@ -359,9 +359,9 @@
 - [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [trentferguson/homescreen-hero](https://github.com/trentferguson/homescreen-hero) - self-hosted Plex companion app with homescreen management, server insights, and useful tools, all in a sleek web dashboard
 - [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly) - The personal retro game collection cabinet in your browser. Join us on Discord https://discord.gg/gwaKRAYG6t
-- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [dialectforge/FlowStateV1.1](https://github.com/dialectforge/FlowStateV1.1) - Development memory that flows between sessions. An MCP server that gives Claude persistent memory about your projects.
-- [kamranahmedse/diffity](https://github.com/kamranahmedse/diffity) - GitHub-style diff viewer for reviewing code changes. Works with Claude Code, Cursor and other AI tools.
+- [nilbuild/diffity](https://github.com/nilbuild/diffity) - GitHub-style diff viewer for reviewing code changes. Works with Claude Code, Cursor and other AI tools.
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [vericontext/querypad](https://github.com/vericontext/querypad) - Drop a file. Query with SQL. Visualize and share. All in your browser. Powered by DuckDB-Wasm.
 - [bilalimamoglu/sift](https://github.com/bilalimamoglu/sift) - Turn noisy command output into a short, actionable first pass for coding agents.
