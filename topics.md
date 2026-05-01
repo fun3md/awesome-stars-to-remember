@@ -389,7 +389,6 @@
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [SterlingChin/marvin-template](https://github.com/SterlingChin/marvin-template) - MARVIN is your personal AI assistant that can help you connect to the apps you need and handle your day.
 - [zuckermanai/zuckerman](https://github.com/zuckermanai/zuckerman) - Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need
-- [skyhook-io/radar](https://github.com/skyhook-io/radar) - Modern Kubernetes visibility. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [openclaw/lobster](https://github.com/openclaw/lobster) - Lobster is a Openclaw-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Openclaw call those workflows in one st
 - [shanselman/cert-inspector](https://github.com/shanselman/cert-inspector) - 🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser.
 - [iam-veeramalla/a-to-z-of-networking](https://github.com/iam-veeramalla/a-to-z-of-networking) - Learn Networking from A to Z at one place with realtime examples.
@@ -676,6 +675,7 @@
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [lightfeed/extractor](https://github.com/lightfeed/extractor) - Use LLMs to robustly extract web data
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [Prismer-AI/PrismerCloud](https://github.com/Prismer-AI/PrismerCloud) - Prismer Cloud
@@ -789,8 +789,8 @@
 - [littlebearapps/pitchdocs](https://github.com/littlebearapps/pitchdocs) - Turn any codebase into professional, marketing-ready GitHub documentation — powered by AI coding assistants
 - [littlebearapps/contextdocs](https://github.com/littlebearapps/contextdocs) - Your AI agent maintains its own context files — a Claude Code plugin with an AGENTS-first model that covers Codex, Copilot, Cursor, Gemini, and 3 more tools.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for building with coding agents
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for parallel agentic development. Run any coding agent with your own subscription.
 - [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) - Curated list of AutoResearch use cases with optimization traces and open source implementations
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
@@ -1351,7 +1351,7 @@
 - [ractive/hyalo](https://github.com/ractive/hyalo) - CLI tool to manage md files
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for building with coding agents
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for parallel agentic development. Run any coding agent with your own subscription.
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [ghostwright/specter](https://github.com/ghostwright/specter) - Deploy AI agents to dedicated VMs in 90 seconds. Interactive TUI. Automatic DNS and TLS. You own the infrastructure.
 - [phlx0/drift](https://github.com/phlx0/drift) - Terminal screensaver that activates when you're idle — constellations, rain, particles & more. Press any key to resume. Just drift away!
@@ -1596,6 +1596,7 @@
 - [voidmind-io/voidllm](https://github.com/voidmind-io/voidllm) - Privacy-first LLM proxy and AI gateway — load balancing, multi-provider routing, API key management, usage tracking, rate limiting. Self-hosted. Zero knowledge of your prompts.
 - [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents, from task to merged PR.
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) - Modern Kubernetes visibility. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [kagent-dev/kmcp](https://github.com/kagent-dev/kmcp) - CLI tool and Kubernetes Controller for building, testing and deploying MCP servers
@@ -1766,7 +1767,7 @@
 - [ProjectPhysX/hw-smi](https://github.com/ProjectPhysX/hw-smi) - A minimal, cross-compatible CPU/GPU telemetry monitor with accurate data directly from vendor APIs and beautiful ASCII visualization.
 - [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) - TUI consciousness monitor for Hermes
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for building with coding agents
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for parallel agentic development. Run any coding agent with your own subscription.
 - [phlx0/drift](https://github.com/phlx0/drift) - Terminal screensaver that activates when you're idle — constellations, rain, particles & more. Press any key to resume. Just drift away!
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [bilalimamoglu/sift](https://github.com/bilalimamoglu/sift) - Turn noisy command output into a short, actionable first pass for coding agents.
