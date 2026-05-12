@@ -69,7 +69,7 @@
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [systalyze/utilyze](https://github.com/systalyze/utilyze) - 
 - [zeroecco/holos](https://github.com/zeroecco/holos) - docker compose for kvm/qemu
-- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents
+- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 - [nex-crm/wuphf](https://github.com/nex-crm/wuphf) - WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs 
 - [voidmind-io/voidllm](https://github.com/voidmind-io/voidllm) - Privacy-first LLM proxy and AI gateway — load balancing, multi-provider routing, API key management, usage tracking, rate limiting. Self-hosted. Zero knowledge of your prompts.
 - [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted kanban & project management with shareable boards, voice commands, sticky-notes and MCP support
@@ -440,7 +440,7 @@
 - [mshumer/unslop](https://github.com/mshumer/unslop) - 
 - [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) - ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent
 - [wangziqi06/724-office](https://github.com/wangziqi06/724-office) - 7/24 Office — Self-evolving AI Agent system. 36 tools, 10,000 lines pure Python, modular architecture, MCP plugins, three-layer memory, nudge system, AI mirror, 24/7 production.
-- [juyterman1000/entroly](https://github.com/juyterman1000/entroly) - Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 85–99% fewer tokens, 100% accuracy retention (verified by live API benchmarks). Built for
+- [juyterman1000/entroly](https://github.com/juyterman1000/entroly) - Open-source context engine that catches AI hallucinations and cuts your token bill 70–95%. The only AI helper that shows its work. Claude · Cursor · Copilot · Codex,GPT & Custom Providers
 - [8ddieHu0314/Skill-Lab](https://github.com/8ddieHu0314/Skill-Lab) - Agent Skills Evaluation Framework
 - [leo-lilinxiao/codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch) - Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch 
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) - "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
@@ -505,7 +505,7 @@
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [bytedance/Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 - [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A frontier, first-principles handbook inspired
-- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
+- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory control plane for AI Agents in 6 lines of code
 - [kijai/ComfyUI-SUPIR](https://github.com/kijai/ComfyUI-SUPIR) - SUPIR upscaling wrapper for ComfyUI
