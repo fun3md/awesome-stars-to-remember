@@ -128,7 +128,7 @@
 - [leo-lilinxiao/codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch) - Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch 
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) - "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
 - [bcurts/agentchattr](https://github.com/bcurts/agentchattr) - Free, local chat where AI coding agents can tag each other, talk, and coordinate with you.
-- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw) - 🦞 Just talk to your agent — it learns and EVOLVES 🧬.
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) - Personal AI, On Personal Devices
@@ -407,7 +407,7 @@
 - [danielmiessler/Substrate](https://github.com/danielmiessler/Substrate) - An Open-source Framework for Human Understanding, Meaning, and Progress.
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [chrisle/alphatheta-connect](https://github.com/chrisle/alphatheta-connect) - A Typescript / JavaScript library that is able to talk to AlphaTheta ProDJLink enabled DJ equipment
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [lightfeed/extractor](https://github.com/lightfeed/extractor) - Use LLMs to robustly extract web data
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
@@ -464,7 +464,7 @@
 - [flodlol/PDF-Slides-to-Handouts-Converter](https://github.com/flodlol/PDF-Slides-to-Handouts-Converter) - Privacy-first PDF handout generator – convert presentation slides into printable n-up layouts (2, 4, 6, 9 per page) using Next.js and pdf-lib.
 - [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - This layout engine can solve the hardest layout problems imaginable. Its output is DTP grade and deterministic. It's faster than engines written in C++ because it's not traditional. Backed by game eng
 - [forloopcodes/contextplus](https://github.com/forloopcodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style
-- [bytonylee/free-router](https://github.com/bytonylee/free-router) - Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw
+- [bytonylee/free-router](https://github.com/bytonylee/free-router) - The free AI model router, API for everyday AI work. Find the best option, compare results, switch with less friction.
 - [figranium/figranium](https://github.com/figranium/figranium) - Build complex browser workflows visually and execute them via API.
 - [openworkflowdev/openworkflow](https://github.com/openworkflowdev/openworkflow) - Open-source TypeScript framework for building durable, resumable workflows. Supports Node.js and Bun.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
