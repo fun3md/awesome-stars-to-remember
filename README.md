@@ -320,7 +320,7 @@
 ## TypeScript 
 
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
-- [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the 
+- [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
 - [tantara/openbrief](https://github.com/tantara/openbrief) - 
 - [Sayhi-bzb/Agent-HTML](https://github.com/Sayhi-bzb/Agent-HTML) - You don't need a chat ui but a canvas with ai.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
@@ -545,7 +545,7 @@
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 
 ## HTML 
