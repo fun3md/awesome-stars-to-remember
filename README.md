@@ -120,7 +120,7 @@
 - [toorandom/malhaus](https://github.com/toorandom/malhaus) - Self-hosted malware static triage platform powered by LLMs
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [volcengine/MineContext](https://github.com/volcengine/MineContext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The agent runtime platform powered by context graphs.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The semantic infrastructure for agents.
 - [joshndala/mnemo-agent](https://github.com/joshndala/mnemo-agent) - 
 - [Lucenor/mnesis](https://github.com/Lucenor/mnesis) - A Python library that solves context window degradation in long-running LLM agents by moving memory management out of the model layer and into a deterministic engine.
 - [gauravvij/AutoPrompter](https://github.com/gauravvij/AutoPrompter) - AutoResearch + PromptFoo = AutoPrompter. Run it with Neo AI Engineer
@@ -288,6 +288,7 @@
 - [liliMozi/openhanako](https://github.com/liliMozi/openhanako) - A personal AI agent with memory, personality, and autonomy.
 - [MatiasDesuu/ThinkDashboard](https://github.com/MatiasDesuu/ThinkDashboard) - A lightweight, self-hosted bookmark dashboard with keyboard shortcuts.
 - [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - An open source, self-hosted, real-time port monitoring and discovery tool.
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [Brisk4t/ToothPaste](https://github.com/Brisk4t/ToothPaste) - Secure Wireless Data-Transfer over BLE and USB for Passwords, Pentesting and Media Control.
 - [vikasprogrammer/walkie](https://github.com/vikasprogrammer/walkie) - P2P communication for AI agents. No server. No setup. Just talk.
 - [dimartarmizi/map-to-poster](https://github.com/dimartarmizi/map-to-poster) - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.
@@ -348,7 +349,7 @@
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
 - [wxtsky/byob](https://github.com/wxtsky/byob) - Bring Your Own Browser — let your AI agent use the Chrome you already have open
 - [chekusu/wanman](https://github.com/chekusu/wanman) - wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent work
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, enc
 - [GRVYDEV/marky](https://github.com/GRVYDEV/marky) - A lightweight easy to use markdown viewer
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [presenton/presenton](https://github.com/presenton/presenton) - Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
@@ -567,7 +568,6 @@
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [LinklyAI/agent-im](https://github.com/LinklyAI/agent-im) - IM, but for agents.
 - [paullarionov/claude-certified-architect](https://github.com/paullarionov/claude-certified-architect) - This repository contains study materials for the **Claude Certified Architect — Foundations** certification.
-- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [h9zdev/GeoSentinel](https://github.com/h9zdev/GeoSentinel) - **GeoSentinel** is a geospatial monitoring platform that tracks global movement in real time.  It aggregates ship and flight routes, live coordinates, and geodata into a unified system, providing clea
 - [Arcanum-Sec/sec-context](https://github.com/Arcanum-Sec/sec-context) - AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code.
