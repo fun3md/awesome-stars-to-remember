@@ -24,7 +24,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Java](#java)
 - [PHP](#php)
-- [Dockerfile](#dockerfile)
 - [Objective-C](#objective-c)
 - [Zig](#zig)
 - [Svelte](#svelte)
@@ -35,6 +34,7 @@
 - [QML](#qml)
 - [Clojure](#clojure)
 - [Smarty](#smarty)
+- [Dockerfile](#dockerfile)
 - [Scala](#scala)
 - [PowerShell](#powershell)
 
@@ -42,7 +42,6 @@
 
 - [Bella3202019/promptloop](https://github.com/Bella3202019/promptloop) - Claude Code for prompt eval
 - [FredAntB/Spec-Driven-Development](https://github.com/FredAntB/Spec-Driven-Development) - A Claude skill that keeps your AI coding tools from contradicting  each other. Generates requirements.md, design.md, and tasks.md  before any code is written — then creates matching config files  for 
-- [ninoxAI/nightwatch](https://github.com/ninoxAI/nightwatch) - Open-source, local-first, read-only AI SRE: clusters alert storms, investigates root cause over your live systems, proposes human-gated fixes.
 - [AtomFlow-AI/MoleCode](https://github.com/AtomFlow-AI/MoleCode) - Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly.
 - [ferdinandobons/brand-docs](https://github.com/ferdinandobons/brand-docs) - BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves bran
 - [Soul-AILab/SoulX-Transcriber](https://github.com/Soul-AILab/SoulX-Transcriber) - An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.
@@ -346,7 +345,7 @@
 - [danielmiessler/Substrate](https://github.com/danielmiessler/Substrate) - An Open-source Framework for Human Understanding, Meaning, and Progress.
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [chrisle/alphatheta-connect](https://github.com/chrisle/alphatheta-connect) - A Typescript / JavaScript library that is able to talk to AlphaTheta ProDJLink enabled DJ equipment
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [lightfeed/extractor](https://github.com/lightfeed/extractor) - Use LLMs to robustly extract web data
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
@@ -360,7 +359,7 @@
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [danielmiessler/Ladder](https://github.com/danielmiessler/Ladder) - A system for autonomous creation and optimization.
 - [Michaelliv/markit](https://github.com/Michaelliv/markit) - 🖍️ Convert anything to markdown. Mark it.
-- [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents, from task to merged PR.
+- [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents swarms, from task to merged PR.
 - [companion-inc/feynman](https://github.com/companion-inc/feynman) - 
 - [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
 - [tiehfood/xpferd](https://github.com/tiehfood/xpferd) - Simple app to design single page invoices and export XRechnung and ZUGFeRD conform files
@@ -680,6 +679,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [SethGammon/Citadel](https://github.com/SethGammon/Citadel) - The operating layer for Claude Code + OpenAI Codex: persistent project memory, intent routing, safety hooks, cost telemetry, and parallel agent fleets.
 - [magnum6actual/flipoff](https://github.com/magnum6actual/flipoff) - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
+- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 7 AI CLIs + headless browser + 50+ tools
 - [andes90/collabmd](https://github.com/andes90/collabmd) - Realtime collaboration for markdown folders, diagrams, and git-backed docs.
 - [louisnelza/stayview](https://github.com/louisnelza/stayview) - A self-hosted dashboard that aggregates bookings from Airbnb, Booking.com, and Lekkeslaap into one place.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
@@ -844,11 +844,6 @@
 - [David-Crty/databasement](https://github.com/David-Crty/databasement) - Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, or local storage. SSH Tunnel sup
 - [FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling) - Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management.
 
-## Dockerfile 
-
-- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 7 AI CLIs + headless browser + 50+ tools
-- [paulhkim80/agones-example-minetest](https://github.com/paulhkim80/agones-example-minetest) - Dedicated Minetest Game Server hosting on Kubernetes using Agones
-
 ## Objective-C 
 
 - [danveloper/flash-moe](https://github.com/danveloper/flash-moe) - Running a big model on a small laptop
@@ -892,6 +887,10 @@
 ## Smarty 
 
 - [trickstercache/helm-charts](https://github.com/trickstercache/helm-charts) - Helm Charts Repository for Trickster
+
+## Dockerfile 
+
+- [paulhkim80/agones-example-minetest](https://github.com/paulhkim80/agones-example-minetest) - Dedicated Minetest Game Server hosting on Kubernetes using Agones
 
 ## Scala 
 
