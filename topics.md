@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [others](#others)
 - [project-management](#project-management)
 - [php](#php)
 - [sql](#sql)
@@ -13,7 +14,6 @@
 - [webapp](#webapp)
 - [rest-api](#rest-api)
 - [cli](#cli)
-- [others](#others)
 - [ai](#ai)
 - [docker](#docker)
 - [self-hosted](#self-hosted)
@@ -209,124 +209,9 @@
 - [django](#django)
 - [xml](#xml)
 
-## project-management 
-
-- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-- [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) - TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task man
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted kanban & project management with shareable boards, voice commands, sticky-notes, multi-language and MCP support
-- [Taskosaur/Taskosaur](https://github.com/Taskosaur/Taskosaur) - Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architec
-
-## php 
-
-- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-- [trypostit/trypost](https://github.com/trypostit/trypost) - Open-source Social Media Scheduling
-- [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
-- [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python
-- [zeabur/zeabur](https://github.com/zeabur/zeabur) - A platform that helps you deploy services with one click.
-- [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift) - Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. MCP server for any IDE. Offline CLI.
-- [FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling) - Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management.
-- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager & storage hub with granular ACLs, resumable uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.
-
-## sql 
-
-- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-- [metrico/gigapipe](https://github.com/metrico/gigapipe) - ⭐️ The Open-Source Polyglot Observability Warehouse: Light, Fast, Cloud Native, Drop-in Grafana LGTMP alternative :rocket: Indie All-in-One Opentelemetry, Loki, Prometheus, Tempo, Pyroscope On-Prem Al
-- [vericontext/querypad](https://github.com/vericontext/querypad) - Cursor for Data — a local-first AI workspace that understands your datasets: discovers relationships, builds semantic models, and answers questions with DuckDB. CLI + browser app.
-- [David-Crty/databasement](https://github.com/David-Crty/databasement) - Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, or local storage. SSH Tunnel sup
-- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
-
-## hacktoberfest 
-
-- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-- [ChatbotXIO/ChatbotX](https://github.com/ChatbotXIO/ChatbotX) - The open-source ManyChat alternative, built for AI 🤖
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
-- [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
-- [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
-- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
-- [microsoft/lida](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models
-- [AICoE/prometheus-anomaly-detector](https://github.com/AICoE/prometheus-anomaly-detector) - A newer more updated version of the prometheus anomaly detector (https://github.com/AICoE/prometheus-anomaly-detector-legacy)
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
-- [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, o
-- [Zibbp/Radium](https://github.com/Zibbp/Radium) - Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases.
-- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
-- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
-
-## esp32 
-
-- [pkerspe/ESP-StepperMotor-Server](https://github.com/pkerspe/ESP-StepperMotor-Server) - Turn your ESP32 into a complete stepper motor control server with web UI, REST API and serial control interface
-- [Brisk4t/ToothPaste](https://github.com/Brisk4t/ToothPaste) - Secure Wireless Data-Transfer over BLE and USB for Passwords, Pentesting and Media Control.
-- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Toys, Companions, and Devices
-
-## webapp 
-
-- [pkerspe/ESP-StepperMotor-Server](https://github.com/pkerspe/ESP-StepperMotor-Server) - Turn your ESP32 into a complete stepper motor control server with web UI, REST API and serial control interface
-- [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
-- [yousifamanuel/terraink](https://github.com/yousifamanuel/terraink) - Terraink: The Cartographic Poster Engine that creates unique and customizable map posters
-- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager & storage hub with granular ACLs, resumable uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-
-## rest-api 
-
-- [pkerspe/ESP-StepperMotor-Server](https://github.com/pkerspe/ESP-StepperMotor-Server) - Turn your ESP32 into a complete stepper motor control server with web UI, REST API and serial control interface
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
-- [openinary/openinary](https://github.com/openinary/openinary) - The self-hostable alternative to Cloudinary
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-
-## cli 
-
-- [pkerspe/ESP-StepperMotor-Server](https://github.com/pkerspe/ESP-StepperMotor-Server) - Turn your ESP32 into a complete stepper motor control server with web UI, REST API and serial control interface
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
-- [modiqo/cliare](https://github.com/modiqo/cliare) - CLI agent-readiness measurement, command-shape inference, and CI scorecards
-- [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python
-- [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
-- [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
-- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in English Markdown.
-- [chojs23/concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord
-- [kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design) - Give your AI coding agent a design system. One command installs 300+ hand-verified company DESIGN.md references + skills into Claude Code, Codex, Cursor, and OpenCode. Free, MIT, zero AI calls.
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-- [MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker) - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)
-- [thClaws/thClaws](https://github.com/thClaws/thClaws) - Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.
-- [SquareWaveSystems/squarebox](https://github.com/SquareWaveSystems/squarebox) - A curated set of modern CLI/TUI tools and AI coding assistants in a container. Batteries included.
-- [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
-- [drasimwagan/mdv](https://github.com/drasimwagan/mdv) - MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension.
-- [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-- [skrun-dev/skrun](https://github.com/skrun-dev/skrun) - Deploy any Agent Skill as an API via POST /run. The open-source multi-model alternative to Claude Managed Agents, Microsoft Foundry & Mistral/Koyeb — works with any LLM.
-- [decisionnode/DecisionNode](https://github.com/decisionnode/DecisionNode) - CLI + Local MCP - A shared structured memory store across Claude Code, Cursor, Windsurf, Antigravity, and every MCP client. Semantically queryable.
-- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
-- [MagicCube/helixent](https://github.com/MagicCube/helixent) - Helixent is a small library for building ReAct-style AI agent loops based on the Bun stack.
-- [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
-- [supermodeltools/cli](https://github.com/supermodeltools/cli) - Save 40%+ on agent token costs with code graphs: call graphs, dependency graphs, dead code detection, and blast radius analysis.
-- [ractive/hyalo](https://github.com/ractive/hyalo) - CLI tool to manage md files
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
-- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
-- [ghostwright/specter](https://github.com/ghostwright/specter) - Deploy AI agents to dedicated VMs in 90 seconds. Interactive TUI. Automatic DNS and TLS. You own the infrastructure.
-- [phlx0/drift](https://github.com/phlx0/drift) - Terminal screensaver that activates when you're idle — constellations, rain, particles & more. Press any key to resume. Just drift away!
-- [vericontext/querypad](https://github.com/vericontext/querypad) - Cursor for Data — a local-first AI workspace that understands your datasets: discovers relationships, builds semantic models, and answers questions with DuckDB. CLI + browser app.
-- [bilalimamoglu/sift](https://github.com/bilalimamoglu/sift) - Turn noisy command output into a short, actionable first pass for coding agents.
-- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
-- [my-claude-utils/clsh](https://github.com/my-claude-utils/clsh) - Access your terminal and your AI agent from any device — phone, tablet, desktop.
-- [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
-- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 238 commands, 224 MCP tools, change-safety gates, audit evidence, zero API keys.
-- [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift) - Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. MCP server for any IDE. Offline CLI.
-- [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [Karib0u/kernagent](https://github.com/Karib0u/kernagent) - Headless AI agent for deterministic reverse engineering.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
-- [kagent-dev/kmcp](https://github.com/kagent-dev/kmcp) - CLI tool and Kubernetes Controller for building, testing and deploying MCP servers
-- [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
-- [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
-- [joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon) - Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
-
 ## others 
 
+- [Lagunaswift/RockyVoice](https://github.com/Lagunaswift/RockyVoice) - A Claude skill. You turn on, Claude is not Claude. Claude is Rocky. The Eridian. From Andy Weir's Project Hail Mary.
 - [mhumayunsaeed/Corvus](https://github.com/mhumayunsaeed/Corvus) - 
 - [Dryxio/auto-re-agent](https://github.com/Dryxio/auto-re-agent) - Autonomous reverse-engineering agent: source-aware reverser/checker loop, objective verifier, 11-signal parity engine, Ghidra backend
 - [KorroAi/onklaud-5](https://github.com/KorroAi/onklaud-5) - Pipelines beat models. A multi-model verification pipeline for code quality. 57% of tasks resolved at /usr/bin/bash.
@@ -514,7 +399,7 @@
 - [magnum6actual/flipoff](https://github.com/magnum6actual/flipoff) - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
 - [facebookresearch/HyperAgents](https://github.com/facebookresearch/HyperAgents) - Self-referential self-improving agents that can optimize for any computable task
 - [companion-inc/feynman](https://github.com/companion-inc/feynman) - 
-- [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
+- [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Quality-First Skill Hub for AI Agents" -- https://open-space.cloud/
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [toorandom/malhaus](https://github.com/toorandom/malhaus) - Self-hosted malware static triage platform powered by LLMs
 - [louisnelza/stayview](https://github.com/louisnelza/stayview) - A self-hosted dashboard that aggregates bookings from Airbnb, Booking.com, and Lekkeslaap into one place.
@@ -702,6 +587,122 @@
 - [dheera/mnist-clock](https://github.com/dheera/mnist-clock) - A clock that displays digits using randomly selected MNIST digits.
 - [sivasamyk/logtrail](https://github.com/sivasamyk/logtrail) - Kibana plugin to view, search & live tail log events
 
+## project-management 
+
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+- [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) - TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task man
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+- [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted kanban & project management with shareable boards, voice commands, sticky-notes, multi-language and MCP support
+- [Taskosaur/Taskosaur](https://github.com/Taskosaur/Taskosaur) - Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architec
+
+## php 
+
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+- [trypostit/trypost](https://github.com/trypostit/trypost) - Open-source Social Media Scheduling
+- [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
+- [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python
+- [zeabur/zeabur](https://github.com/zeabur/zeabur) - A platform that helps you deploy services with one click.
+- [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift) - Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. MCP server for any IDE. Offline CLI.
+- [FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling) - Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management.
+- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager & storage hub with granular ACLs, resumable uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.
+
+## sql 
+
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+- [metrico/gigapipe](https://github.com/metrico/gigapipe) - ⭐️ The Open-Source Polyglot Observability Warehouse: Light, Fast, Cloud Native, Drop-in Grafana LGTMP alternative :rocket: Indie All-in-One Opentelemetry, Loki, Prometheus, Tempo, Pyroscope On-Prem Al
+- [vericontext/querypad](https://github.com/vericontext/querypad) - Cursor for Data — a local-first AI workspace that understands your datasets: discovers relationships, builds semantic models, and answers questions with DuckDB. CLI + browser app.
+- [David-Crty/databasement](https://github.com/David-Crty/databasement) - Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, or local storage. SSH Tunnel sup
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
+
+## hacktoberfest 
+
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+- [ChatbotXIO/ChatbotX](https://github.com/ChatbotXIO/ChatbotX) - The open-source ManyChat alternative, built for AI 🤖
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
+- [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
+- [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
+- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
+- [microsoft/lida](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models
+- [AICoE/prometheus-anomaly-detector](https://github.com/AICoE/prometheus-anomaly-detector) - A newer more updated version of the prometheus anomaly detector (https://github.com/AICoE/prometheus-anomaly-detector-legacy)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
+- [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, o
+- [Zibbp/Radium](https://github.com/Zibbp/Radium) - Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases.
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
+
+## esp32 
+
+- [pkerspe/ESP-StepperMotor-Server](https://github.com/pkerspe/ESP-StepperMotor-Server) - Turn your ESP32 into a complete stepper motor control server with web UI, REST API and serial control interface
+- [Brisk4t/ToothPaste](https://github.com/Brisk4t/ToothPaste) - Secure Wireless Data-Transfer over BLE and USB for Passwords, Pentesting and Media Control.
+- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Toys, Companions, and Devices
+
+## webapp 
+
+- [pkerspe/ESP-StepperMotor-Server](https://github.com/pkerspe/ESP-StepperMotor-Server) - Turn your ESP32 into a complete stepper motor control server with web UI, REST API and serial control interface
+- [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
+- [yousifamanuel/terraink](https://github.com/yousifamanuel/terraink) - Terraink: The Cartographic Poster Engine that creates unique and customizable map posters
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager & storage hub with granular ACLs, resumable uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## rest-api 
+
+- [pkerspe/ESP-StepperMotor-Server](https://github.com/pkerspe/ESP-StepperMotor-Server) - Turn your ESP32 into a complete stepper motor control server with web UI, REST API and serial control interface
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
+- [openinary/openinary](https://github.com/openinary/openinary) - The self-hostable alternative to Cloudinary
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+
+## cli 
+
+- [pkerspe/ESP-StepperMotor-Server](https://github.com/pkerspe/ESP-StepperMotor-Server) - Turn your ESP32 into a complete stepper motor control server with web UI, REST API and serial control interface
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [modiqo/cliare](https://github.com/modiqo/cliare) - CLI agent-readiness measurement, command-shape inference, and CI scorecards
+- [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python
+- [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
+- [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
+- [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in English Markdown.
+- [chojs23/concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord
+- [kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design) - Give your AI coding agent a design system. One command installs 300+ hand-verified company DESIGN.md references + skills into Claude Code, Codex, Cursor, and OpenCode. Free, MIT, zero AI calls.
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker) - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)
+- [thClaws/thClaws](https://github.com/thClaws/thClaws) - Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.
+- [SquareWaveSystems/squarebox](https://github.com/SquareWaveSystems/squarebox) - A curated set of modern CLI/TUI tools and AI coding assistants in a container. Batteries included.
+- [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
+- [drasimwagan/mdv](https://github.com/drasimwagan/mdv) - MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension.
+- [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+- [skrun-dev/skrun](https://github.com/skrun-dev/skrun) - Deploy any Agent Skill as an API via POST /run. The open-source multi-model alternative to Claude Managed Agents, Microsoft Foundry & Mistral/Koyeb — works with any LLM.
+- [decisionnode/DecisionNode](https://github.com/decisionnode/DecisionNode) - CLI + Local MCP - A shared structured memory store across Claude Code, Cursor, Windsurf, Antigravity, and every MCP client. Semantically queryable.
+- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls.
+- [MagicCube/helixent](https://github.com/MagicCube/helixent) - Helixent is a small library for building ReAct-style AI agent loops based on the Bun stack.
+- [retlehs/quien](https://github.com/retlehs/quien) - A better whois and domain intelligence toolkit
+- [supermodeltools/cli](https://github.com/supermodeltools/cli) - Save 40%+ on agent token costs with code graphs: call graphs, dependency graphs, dead code detection, and blast radius analysis.
+- [ractive/hyalo](https://github.com/ractive/hyalo) - CLI tool to manage md files
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
+- [ghostwright/specter](https://github.com/ghostwright/specter) - Deploy AI agents to dedicated VMs in 90 seconds. Interactive TUI. Automatic DNS and TLS. You own the infrastructure.
+- [phlx0/drift](https://github.com/phlx0/drift) - Terminal screensaver that activates when you're idle — constellations, rain, particles & more. Press any key to resume. Just drift away!
+- [vericontext/querypad](https://github.com/vericontext/querypad) - Cursor for Data — a local-first AI workspace that understands your datasets: discovers relationships, builds semantic models, and answers questions with DuckDB. CLI + browser app.
+- [bilalimamoglu/sift](https://github.com/bilalimamoglu/sift) - Turn noisy command output into a short, actionable first pass for coding agents.
+- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
+- [my-claude-utils/clsh](https://github.com/my-claude-utils/clsh) - Access your terminal and your AI agent from any device — phone, tablet, desktop.
+- [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
+- [Cranot/roam-code](https://github.com/Cranot/roam-code) - Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 238 commands, 224 MCP tools, change-safety gates, audit evidence, zero API keys.
+- [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift) - Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. MCP server for any IDE. Offline CLI.
+- [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [Karib0u/kernagent](https://github.com/Karib0u/kernagent) - Headless AI agent for deterministic reverse engineering.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [kagent-dev/kmcp](https://github.com/kagent-dev/kmcp) - CLI tool and Kubernetes Controller for building, testing and deploying MCP servers
+- [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
+- [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
+- [joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon) - Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
+
 ## ai 
 
 - [iuliandita/digarr](https://github.com/iuliandita/digarr) - AI-powered music discovery for your *arr stack. Recommends artists and individual albums through a 7-stage AI pipeline, scores and ranks them, and learns from your feedback -- approve a single album w
@@ -722,7 +723,7 @@
 - [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python
 - [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
-- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source engine behind AI app-builders — isolated dev sandboxes, a built-in coding agent, and live preview URLs. Self-host in one command.
+- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT.
 - [boona13/image-extender](https://github.com/boona13/image-extender) - Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.
 - [Ademking/SkillPrompts](https://github.com/Ademking/SkillPrompts) - A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
@@ -840,7 +841,7 @@
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [perber/leafwiki](https://github.com/perber/leafwiki) - LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
-- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source engine behind AI app-builders — isolated dev sandboxes, a built-in coding agent, and live preview URLs. Self-host in one command.
+- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT.
 - [ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os) - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
 - [hwdsl2/self-hosted-ai-stack](https://github.com/hwdsl2/self-hosted-ai-stack) - Deploy a complete self-hosted AI stack with Docker Compose: Ollama, LiteLLM, AnythingLLM, Whisper, WhisperLive, Kokoro, Embeddings, Docling and MCP Gateway. Local-first, private by default, with light
 - [abdosorour7/dev-commands-cheatsheet](https://github.com/abdosorour7/dev-commands-cheatsheet) - The ultimate offline-ready Developer Cheatsheets for Git, Docker, and more: searchable, copy-ready, and organized for real-world workflows.
@@ -907,7 +908,7 @@
 - [perber/leafwiki](https://github.com/perber/leafwiki) - LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
 - [yaodub/cast](https://github.com/yaodub/cast) - Your agent team, on your machine. Open-source harness for multi-user Claude agents.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
-- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source engine behind AI app-builders — isolated dev sandboxes, a built-in coding agent, and live preview URLs. Self-host in one command.
+- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT.
 - [ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os) - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
 - [hwdsl2/self-hosted-ai-stack](https://github.com/hwdsl2/self-hosted-ai-stack) - Deploy a complete self-hosted AI stack with Docker Compose: Ollama, LiteLLM, AnythingLLM, Whisper, WhisperLive, Kokoro, Embeddings, Docling and MCP Gateway. Local-first, private by default, with light
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
@@ -1085,7 +1086,7 @@
 - [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
 - [denislupookov/altersend](https://github.com/denislupookov/altersend) - Send files directly between devices over the internet - no cloud storage, no size limits.
-- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source engine behind AI app-builders — isolated dev sandboxes, a built-in coding agent, and live preview URLs. Self-host in one command.
+- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT.
 - [ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os) - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
 - [tinyfish-io/bigset](https://github.com/tinyfish-io/bigset) - What if you had all the data in the world?
 - [boona13/mykonos-island-voxels](https://github.com/boona13/mykonos-island-voxels) - A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.
@@ -1305,7 +1306,7 @@
 - [Soul-AILab/SoulX-Transcriber](https://github.com/Soul-AILab/SoulX-Transcriber) - An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [duncatzat/vigils](https://github.com/duncatzat/vigils) - A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.
-- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source engine behind AI app-builders — isolated dev sandboxes, a built-in coding agent, and live preview URLs. Self-host in one command.
+- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT.
 - [withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit) - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 15 agents, 33 skills working with /goal, agent-team,
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
 - [raindrop-ai/workshop](https://github.com/raindrop-ai/workshop) - Give your coding agent the power to write and run agent evals.
@@ -1408,7 +1409,7 @@
 - [shadcn-labs/agentcn](https://github.com/shadcn-labs/agentcn) - shadcn/ui, but for building agents. 🤖
 - [Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship) - The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reus
 - [duncatzat/vigils](https://github.com/duncatzat/vigils) - A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.
-- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source engine behind AI app-builders — isolated dev sandboxes, a built-in coding agent, and live preview URLs. Self-host in one command.
+- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT.
 - [lynote-ai/ai-detector-skill](https://github.com/lynote-ai/ai-detector-skill) - A free detector capable of identifying content generated by all advanced AI models.
 - [withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit) - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 15 agents, 33 skills working with /goal, agent-team,
 - [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) - Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.
@@ -1783,7 +1784,7 @@
 - [FredAntB/Spec-Driven-Development](https://github.com/FredAntB/Spec-Driven-Development) - A Claude skill that keeps your AI coding tools from contradicting  each other. Generates requirements.md, design.md, and tasks.md  before any code is written — then creates matching config files  for 
 - [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens.
-- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source engine behind AI app-builders — isolated dev sandboxes, a built-in coding agent, and live preview URLs. Self-host in one command.
+- [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT.
 - [withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit) - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 15 agents, 33 skills working with /goal, agent-team,
 - [freestyle-voice/freestyle](https://github.com/freestyle-voice/freestyle) - Open source voice dictation platform for devs. Build voice workflows.
 - [dodo-reach/hermes-desktop](https://github.com/dodo-reach/hermes-desktop) - The safest, simplest way to manage Hermes from your Mac. Pure SSH. No gateways, no exposed ports, no browser layer.
@@ -2710,7 +2711,7 @@
 
 ## aws 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 81 services, 5,697 operations, true 100% Smithy conformance (190,624/190,624 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,362 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
@@ -2725,7 +2726,7 @@
 
 ## terraform 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 81 services, 5,697 operations, true 100% Smithy conformance (190,624/190,624 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,362 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
 - [moabukar/miniblue](https://github.com/moabukar/miniblue) - Local Azure development. One binary. No account needed. 25+ emulated services for testing, CI and local dev.
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
@@ -2735,7 +2736,7 @@
 
 ## emulator 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 81 services, 5,697 operations, true 100% Smithy conformance (190,624/190,624 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,362 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
 - [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly) - The personal retro game collection cabinet in your browser. Join us on Discord https://discord.gg/gwaKRAYG6t
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 55+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 
