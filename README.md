@@ -167,7 +167,7 @@
 - [AtomFlow-AI/MoleCode](https://github.com/AtomFlow-AI/MoleCode) - Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly.
 - [ferdinandobons/brand-docs](https://github.com/ferdinandobons/brand-docs) - BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves bran
 - [Soul-AILab/SoulX-Transcriber](https://github.com/Soul-AILab/SoulX-Transcriber) - An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.
-- [rednote-hilab/dots.tts](https://github.com/rednote-hilab/dots.tts) - 
+- [studio-dots-ai/dots.tts](https://github.com/studio-dots-ai/dots.tts) - 
 - [hanxiao/dataroom](https://github.com/hanxiao/dataroom) - Give a query, get a dataroom. Pi + self-hosted Qwen3.6 research harness on a single L4.
 - [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 - [VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat) - TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
@@ -234,7 +234,7 @@
 - [EverM0re/EraRAG-Official](https://github.com/EverM0re/EraRAG-Official) - [arXiv'25] EraRAG: Efficient and Incremental Retrieval-Augmented Generation for Growing Corpora
 - [brendanhogan/loophole](https://github.com/brendanhogan/loophole) - 
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [VictoriaMetrics/skills](https://github.com/VictoriaMetrics/skills) - The official Agent Skills for VictoriaMetrics products
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat.
@@ -249,7 +249,7 @@
 - [lucas-maes/le-wm](https://github.com/lucas-maes/le-wm) - Official code base for LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels
 - [zstar1003/ragflow-plus](https://github.com/zstar1003/ragflow-plus) - Ragflow-Plus 是 Ragflow 的二次开发版本，使其更为简洁实用
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, 
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalo
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [MiroShark/MiroShark](https://github.com/MiroShark/MiroShark) - Simulate anything, for $1 & less than 10 min - Universal Swarm Intelligence Engine
 - [DenisSergeevitch/repo-task-proof-loop](https://github.com/DenisSergeevitch/repo-task-proof-loop) - Spec driven skill with subagents spawning
@@ -606,7 +606,6 @@
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
 - [tantara/openbrief](https://github.com/tantara/openbrief) - 
 - [Sayhi-bzb/Agent-HTML](https://github.com/Sayhi-bzb/Agent-HTML) - You don't need a chat ui but a canvas with ai.
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [raindrop-ai/workshop](https://github.com/raindrop-ai/workshop) - Give your coding agent the power to write and run agent evals.
 - [open-gsd/gsd-pi](https://github.com/open-gsd/gsd-pi) - A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
 - [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in English Markdown.
@@ -651,7 +650,7 @@
 - [decisionnode/DecisionNode](https://github.com/decisionnode/DecisionNode) - CLI + Local MCP - A shared structured memory store across Claude Code, Cursor, Windsurf, Antigravity, and every MCP client. Semantically queryable.
 - [droid-ash/finalrun-agent](https://github.com/droid-ash/finalrun-agent) - AI QA Agent for mobile apps
 - [kitfunso/hippo-memory](https://github.com/kitfunso/hippo-memory) - Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies.
-- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Design engine for Claude Code, Codex & Cursor — teaches design judgment, not just data. 74 rules, 48 components, 7 brand skins (Toss/Stripe/Linear/Notion/Raycast/Arc/Vercel), a named motion system (5 
+- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment—not one fixed aesthetic—then selects or derives the right grammar from references, locks pro
 - [MagicCube/helixent](https://github.com/MagicCube/helixent) - Helixent is a small library for building ReAct-style AI agent loops based on the Bun stack.
 - [millionco/debug-agent](https://github.com/millionco/debug-agent) - Debugging skill for AI agents
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
@@ -919,6 +918,7 @@
 
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [i12bp8/TagTinker](https://github.com/i12bp8/TagTinker) - Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [tobi/try-cli](https://github.com/tobi/try-cli) - try - fresh directories for every vibe. Your experiments deserve a home. 🏠
