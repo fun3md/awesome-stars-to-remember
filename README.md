@@ -286,7 +286,7 @@
 
 - [yeet-src/sigwire](https://github.com/yeet-src/sigwire) - tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which signal, how it was raised (kill(2), the kernel, a POSIX timer), whether the target caught it and how lo
 - [CarlMarkswx/comfyui_GaussianViewer](https://github.com/CarlMarkswx/comfyui_GaussianViewer) - 为 ComfyUI 提供 Gaussian Splatting PLY 交互预览与高质量渲染输出的一体化节点插件。  An all‑in‑one ComfyUI node plugin for interactive Gaussian Splatting PLY previews and high‑quality render outputs.
-- [amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) - Drive Codex, OpenCode, Antigravity, Grok, or Kimi as a background implementer — brief it, review its diff, land the commit yourself.
+- [amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) - Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer.
 - [shlokkhemani/rabbithole](https://github.com/shlokkhemani/rabbithole) - An infinite canvas for learning — select text, ask, and answers branch out as documents. MCP server for Claude Code, Codex, and any agent.
 - [nexu-io/motion-anything](https://github.com/nexu-io/motion-anything) - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.
 - [majidmanzarpour/threejs-procedural-dungeon](https://github.com/majidmanzarpour/threejs-procedural-dungeon) - Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.
