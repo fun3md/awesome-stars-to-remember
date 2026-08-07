@@ -258,7 +258,7 @@
 - [lucas-maes/le-wm](https://github.com/lucas-maes/le-wm) - Official code base for LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels
 - [zstar1003/ragflow-plus](https://github.com/zstar1003/ragflow-plus) - Ragflow-Plus 是 Ragflow 的二次开发版本，使其更为简洁实用
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [MiroShark/MiroShark](https://github.com/MiroShark/MiroShark) - Simulate anything, for $1 & less than 10 min - Universal Swarm Intelligence Engine
 - [DenisSergeevitch/repo-task-proof-loop](https://github.com/DenisSergeevitch/repo-task-proof-loop) - Spec driven skill with subagents spawning
@@ -484,7 +484,6 @@
 - [humation-labs/humation](https://github.com/humation-labs/humation) - Hand-drawn kawaii avatar engine for your app. No AI, no API calls.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [khairul169/garage-webui](https://github.com/khairul169/garage-webui) - WebUI for Garage Object Storage Service
-- [sameerk27/vigil365](https://github.com/sameerk27/vigil365) - Self-hosted Microsoft 365 security operations dashboard — aggregates Defender XDR, Entra ID Protection, Intune, Compliance and more into one place.
 - [Studio-Saelix/sencho](https://github.com/Studio-Saelix/sencho) - Self-hosted Docker Compose management platform. For single or multi-host compose-first workflow.
 - [terminator-ssh/terminator-desktop](https://github.com/terminator-ssh/terminator-desktop) - SSH client with encrypted sync
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
@@ -552,7 +551,7 @@
 - [decisionnode/DecisionNode](https://github.com/decisionnode/DecisionNode) - CLI + Local MCP - A shared structured memory store across Claude Code, Cursor, Windsurf, Antigravity, and every MCP client. Semantically queryable.
 - [droid-ash/finalrun-agent](https://github.com/droid-ash/finalrun-agent) - AI QA Agent for mobile apps
 - [kitfunso/hippo-memory](https://github.com/kitfunso/hippo-memory) - Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies.
-- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment—not one fixed aesthetic—then selects or derives the right grammar from references, locks pro
+- [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Fixed design judgment, multiple grammars, reference compilation, semantic palettes, and Studio workflows for verified UI, interaction,
 - [MagicCube/helixent](https://github.com/MagicCube/helixent) - Helixent is a small library for building ReAct-style AI agent loops based on the Bun stack.
 - [millionco/debug-agent](https://github.com/millionco/debug-agent) - Debugging skill for AI agents
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
@@ -977,6 +976,7 @@
 ## C# # 
 
 - [Memtly/Memtly.Community](https://github.com/Memtly/Memtly.Community) - Front end code available for community use
+- [sameerk27/vigil365](https://github.com/sameerk27/vigil365) - Self-hosted Microsoft 365 security operations dashboard — aggregates Defender XDR, Entra ID Protection, Intune, Compliance and more into one place.
 - [mad0x20wizard/Desomnia](https://github.com/mad0x20wizard/Desomnia) - This is a background service that automatically and transparently performs Wake-on-LAN and enhances the built-in sleep management system by adding filters and extra monitors.
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
