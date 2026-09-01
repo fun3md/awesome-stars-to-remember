@@ -40,6 +40,7 @@
 - [rust](#rust)
 - [openai](#openai)
 - [terminal](#terminal)
+- [raspberry-pi](#raspberry-pi)
 - [sqlite](#sqlite)
 - [privacy](#privacy)
 - [golang](#golang)
@@ -73,7 +74,6 @@
 - [postgresql](#postgresql)
 - [music](#music)
 - [tensorflow](#tensorflow)
-- [raspberry-pi](#raspberry-pi)
 - [artificial-intelligence](#artificial-intelligence)
 - [nodejs](#nodejs)
 - [productivity](#productivity)
@@ -113,7 +113,6 @@
 - [server](#server)
 - [code-quality](#code-quality)
 - [ruby](#ruby)
-- [c-sharp](#c-sharp)
 - [p2p](#p2p)
 - [command-line](#command-line)
 - [flutter](#flutter)
@@ -552,6 +551,7 @@
 - [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [JackTheGit/hermes-ai-infrastructure-monitoring-toolkit](https://github.com/JackTheGit/hermes-ai-infrastructure-monitoring-toolkit) - Autonomous AI infrastructure monitoring using Hermes Agent. Cron-based research ingestion, cost forecasting, and headless systemd deployment.
+- [Lethe044/hermes-incident-commander](https://github.com/Lethe044/hermes-incident-commander) - Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that needs no Hermes install, just an Anthropic API key. Memory + Skills + Cron + Gateway
 - [ghostwright/specter](https://github.com/ghostwright/specter) - Deploy AI agents to dedicated VMs in 90 seconds. Interactive TUI. Automatic DNS and TLS. You own the infrastructure.
 - [leo-lilinxiao/codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch) - Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch 
 - [Kong/volcano-agent-sdk](https://github.com/Kong/volcano-agent-sdk) - 🌋 Build AI agents that seamlessly combine LLM reasoning with real-world actions via MCP tools — in just a few lines of TypeScript.
@@ -660,7 +660,6 @@
 - [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
 - [fayaaz/mixxx-pi-gen](https://github.com/fayaaz/mixxx-pi-gen) - Raspberry Pi image with Mixxx
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project
-- [veteranbv/inky-bird-frame](https://github.com/veteranbv/inky-bird-frame) - Location-neutral bird field-journal plates for Pimoroni Inky displays
 - [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) - Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown
 - [rootprint/rootprint](https://github.com/rootprint/rootprint) - Open-source, self-hosted log management platform built with Hono, SvelteKit and Quickwit!
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
@@ -760,7 +759,6 @@
 - [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web) - Web playground to create Gaussian Splats using Apple's SHARP model
 - [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer) - Local-first desktop markdown editor
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [UfukNode/Noustiny](https://github.com/UfukNode/Noustiny) - An agent native video creation pipeline that runs on top of Hermes Agent
 - [bensenescu/downy](https://github.com/bensenescu/downy) - OpenClaw Alternative - Create a team of agents and work with them from anywhere.
 - [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) - A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.
 - [fluffypony/dothething](https://github.com/fluffypony/dothething) - an autonomous AI agent: you describe the thing, it does the thing.
@@ -878,6 +876,7 @@
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [toorandom/malhaus](https://github.com/toorandom/malhaus) - Self-hosted malware static triage platform powered by LLMs
 - [louisnelza/stayview](https://github.com/louisnelza/stayview) - A self-hosted dashboard that aggregates bookings from Airbnb, Booking.com, and Lekkeslaap into one place.
+- [crabtalk/crabtalk](https://github.com/crabtalk/crabtalk) - The long-running embedded agent
 - [iflytek/skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.
 - [ArmanJR/claudebox](https://github.com/ArmanJR/claudebox) - Full Claude agent, completely contained, one command.
 - [buildoak/wet](https://github.com/buildoak/wet) - wet claude. Wringing Excess Tokens - transparent API proxy that compresses stale tool results in Claude Code sessions
@@ -947,7 +946,7 @@
 - [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 - [DatanoiseTV/tinyice](https://github.com/DatanoiseTV/tinyice) - Streaming server for Audio and Video (icecast compatible) written in Go with multiple mountpoint, multi-source, and relaying support and a lot more.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
-- [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools.  All from your browser / mobile
+- [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Companion — self-hostable Skills Hub for organizations and coding agents.
 - [prompt-security/clawsec](https://github.com/prompt-security/clawsec) - A complete security skill suite for OpenClaw, Hermes, PicoClaw and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, an
 - [HarborGuard/HarborGuard](https://github.com/HarborGuard/HarborGuard) - Modern image vulnerability scanning & patching platform with multi-tool integration.
 - [fccview/cronmaster](https://github.com/fccview/cronmaster) - Cronjob management UI with human readable syntax, live logging and log history for your cronjobs.
@@ -1136,7 +1135,6 @@
 - [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they to
 - [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agent swarms, from task to merged PR.
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
-- [crabtalk/crabtalk](https://github.com/crabtalk/crabtalk) - The long-running embedded agent
 - [Lucenor/mnesis](https://github.com/Lucenor/mnesis) - A Python library that solves context window degradation in long-running LLM agents by moving memory management out of the model layer and into a deterministic engine.
 - [dialectforge/FlowStateV1.1](https://github.com/dialectforge/FlowStateV1.1) - Development memory that flows between sessions. An MCP server that gives Claude persistent memory about your projects.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
@@ -1368,7 +1366,7 @@
 - [thClaws/thClaws](https://github.com/thClaws/thClaws) - Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.
 - [GammaLabTechnologies/harmonist](https://github.com/GammaLabTechnologies/harmonist) - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.
 - [yantrikos/yantrikdb-server](https://github.com/yantrikos/yantrikdb-server) - Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, Apache-2.0, ships as library / MCP server / HTTP cluster.
-- [najmuzzaman-mohammad/gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - WUPHF lets you spin up your personal office of AI teammates who collaborate over shared context. Supports Claude Code, Codex, OpenClaw, OpenCode, local LLMs.
+- [najmuzzaman-mohammad/gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - gawkbots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
 - [SquareWaveSystems/squarebox](https://github.com/SquareWaveSystems/squarebox) - A curated set of modern CLI/TUI tools and AI coding assistants in a container. Batteries included.
 - [QuinnAho/claudemap](https://github.com/QuinnAho/claudemap) - google maps for vibecoders.
 - [Hainrixz/open-carrusel](https://github.com/Hainrixz/open-carrusel) - AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.
@@ -1472,6 +1470,7 @@
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [fikrikarim/parlor](https://github.com/fikrikarim/parlor) - On-device, real-time multimodal AI with features similar to GPT-Live
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat.
+- [Lethe044/hermes-incident-commander](https://github.com/Lethe044/hermes-incident-commander) - Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that needs no Hermes install, just an Anthropic API key. Memory + Skills + Cron + Gateway
 - [zeabur/zeabur](https://github.com/zeabur/zeabur) - A platform that helps you deploy services with one click.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -1800,6 +1799,7 @@
 ## self-hosted 
 
 - [shuaiplus/inkstone](https://github.com/shuaiplus/inkstone) - A self-hosted Markdown notebook that runs entirely on Cloudflare Workers.
+- [veteranbv/inky-bird-frame](https://github.com/veteranbv/inky-bird-frame) - Turn bird observations and detections into reviewed, reusable field-journal plates for color e-paper displays
 - [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [olemeyer/rocketplaneIO](https://github.com/olemeyer/rocketplaneIO) - Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.
@@ -2023,6 +2023,11 @@
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
+## raspberry-pi 
+
+- [veteranbv/inky-bird-frame](https://github.com/veteranbv/inky-bird-frame) - Turn bird observations and detections into reviewed, reusable field-journal plates for color e-paper displays
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
+
 ## sqlite 
 
 - [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) - Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.
@@ -2111,7 +2116,7 @@
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Docker Volume
 - [moabukar/miniblue](https://github.com/moabukar/miniblue) - Local Azure development. One binary. No account needed. 25+ emulated services for testing, CI and local dev.
-- [Lethe044/hermes-incident-commander](https://github.com/Lethe044/hermes-incident-commander) - Autonomous SRE agent built on Hermes - detects, heals, and learns from production incidents. Uses Memory + Skills + Cron + Gateway + Subagents + Atropos RL.
+- [Lethe044/hermes-incident-commander](https://github.com/Lethe044/hermes-incident-commander) - Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that needs no Hermes install, just an Anthropic API key. Memory + Skills + Cron + Gateway
 - [ghostwright/specter](https://github.com/ghostwright/specter) - Deploy AI agents to dedicated VMs in 90 seconds. Interactive TUI. Automatic DNS and TLS. You own the infrastructure.
 - [mariusdjen/vpskit](https://github.com/mariusdjen/vpskit) - The easiest way to secure, deploy and manage a Linux VPS
 - [nWave-ai/nWave](https://github.com/nWave-ai/nWave) - AI agents that guide you from idea to working code, with you in control at every step.
@@ -2131,6 +2136,7 @@
 - [Augani/dory](https://github.com/Augani/dory) - Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [voidmind-io/voidllm](https://github.com/voidmind-io/voidllm) - Privacy-first LLM proxy and AI gateway - load balancing, multi-provider routing, API key management, usage tracking, rate limiting. Self-hosted. Zero knowledge of your prompts.
+- [Lethe044/hermes-incident-commander](https://github.com/Lethe044/hermes-incident-commander) - Autonomous SRE agent that detects, diagnoses, and self-heals production incidents - with a standalone watchdog that needs no Hermes install, just an Anthropic API key. Memory + Skills + Cron + Gateway
 - [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agent swarms, from task to merged PR.
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
@@ -2213,7 +2219,6 @@
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
 - [PikoCI/pikoci](https://github.com/PikoCI/pikoci) - The CI/CD that grows with you. One binary, any database, runs anywhere.
 - [perber/leafwiki](https://github.com/perber/leafwiki) - LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
-- [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch and fix the code-quality issues AI coding agents leave behind - dead code, unsafe casts, swallowed errors, duplication, security risks, and more. 50+ deterministic rules across 10 language targe
 - [markrai/scrumboy](https://github.com/markrai/scrumboy) - Self-hosted project management, featuring customizable project boards, cross-project workload and flow analytics, calendar-aware planning, a sticky-note wall, portable imports/backups, realtime email 
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [ghostwright/specter](https://github.com/ghostwright/specter) - Deploy AI agents to dedicated VMs in 90 seconds. Interactive TUI. Automatic DNS and TLS. You own the infrastructure.
@@ -2450,10 +2455,6 @@
 - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, o
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
-## raspberry-pi 
-
-- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
-
 ## artificial-intelligence 
 
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
@@ -2587,7 +2588,7 @@
 - [Beever-AI/beever-atlas](https://github.com/Beever-AI/beever-atlas) - Your First LLM-Wiki Conversation Knowledge Base
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A library of agent skills for CAD, CAE and CAM
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
-- [najmuzzaman-mohammad/gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - WUPHF lets you spin up your personal office of AI teammates who collaborate over shared context. Supports Claude Code, Codex, OpenClaw, OpenCode, local LLMs.
+- [najmuzzaman-mohammad/gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - gawkbots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
 - [DinobaseHQ/dinobase](https://github.com/DinobaseHQ/dinobase) - The agent-first database
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
@@ -2801,10 +2802,6 @@
 
 - [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch and fix the code-quality issues AI coding agents leave behind - dead code, unsafe casts, swallowed errors, duplication, security risks, and more. 50+ deterministic rules across 10 language targe
 - [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
-
-## c-sharp 
-
-- [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch and fix the code-quality issues AI coding agents leave behind - dead code, unsafe casts, swallowed errors, duplication, security risks, and more. 50+ deterministic rules across 10 language targe
 
 ## p2p 
 
