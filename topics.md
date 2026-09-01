@@ -59,6 +59,7 @@
 - [monitoring](#monitoring)
 - [svelte](#svelte)
 - [agent](#agent)
+- [bioinformatics](#bioinformatics)
 - [backend](#backend)
 - [windows](#windows)
 - [project-management](#project-management)
@@ -315,7 +316,7 @@
 ## dsh-plugin 
 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Unified Virtual Filesystem For AI Agents
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
@@ -502,7 +503,7 @@
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
 - [berelevant-ai/slopless](https://github.com/berelevant-ai/slopless) - Deterministic textlint rules and CLI for catching prose slop in English Markdown.
 - [kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design) - Give your AI coding agent a design system. One command installs 400+ quality-graded company DESIGN.md references + skills into Claude Code, Codex, Cursor, and OpenCode. Free, MIT, zero AI calls.
-- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Unified Virtual Filesystem For AI Agents
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [wxtsky/byob](https://github.com/wxtsky/byob) - Bring Your Own Browser — let your AI agent use the Chrome you already have open
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [drasimwagan/mdv](https://github.com/drasimwagan/mdv) - MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension.
@@ -644,7 +645,7 @@
 ## pytorch 
 
 - [sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network | a PyTorch Tutorial to Super-Resolution
-- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, voice-mixing, auto-stitching, caption timestamps, SSML, readalong web UI
+- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, auto-stitching, caption timestamps, SSML, optional readalong web UI
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [babycommando/neuralgraffiti](https://github.com/babycommando/neuralgraffiti) - Live-bending a foundation model’s output at neural network level.
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
@@ -1360,7 +1361,7 @@
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [chorus-codes/chorus](https://github.com/chorus-codes/chorus) - Multi-LLM peer review for code decisions. Bring your own CLI; Chorus convenes 2-4 other LLMs to review the work before you ship.
 - [ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books) - AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.
-- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Unified Virtual Filesystem For AI Agents
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [wxtsky/byob](https://github.com/wxtsky/byob) - Bring Your Own Browser — let your AI agent use the Chrome you already have open
 - [chekusu/wanman](https://github.com/chekusu/wanman) - wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent work
 - [thClaws/thClaws](https://github.com/thClaws/thClaws) - Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.
@@ -1458,7 +1459,7 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [jmerelnyc/Photo-agents](https://github.com/jmerelnyc/Photo-agents) - Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.
 - [MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker) - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)
-- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Unified Virtual Filesystem For AI Agents
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [Beever-AI/beever-atlas](https://github.com/Beever-AI/beever-atlas) - Your First LLM-Wiki Conversation Knowledge Base
 - [GammaLabTechnologies/harmonist](https://github.com/GammaLabTechnologies/harmonist) - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
@@ -1673,7 +1674,7 @@
 - [DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices) - Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
 - [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) - OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
 - [jmerelnyc/Photo-agents](https://github.com/jmerelnyc/Photo-agents) - Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.
-- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Unified Virtual Filesystem For AI Agents
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [GammaLabTechnologies/harmonist](https://github.com/GammaLabTechnologies/harmonist) - Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A library of agent skills for CAD, CAE and CAM
@@ -2307,6 +2308,10 @@
 - [whiteducksoftware/flock](https://github.com/whiteducksoftware/flock) - 🐤🐧 A declarative and highly modular Blackboard Multi Agent System  🐓 🦆
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 
+## bioinformatics 
+
+- [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) - The open-source AI workbench for scientific research
+
 ## backend 
 
 - [tinbase/tinbase](https://github.com/tinbase/tinbase) - Supabase-compatible backend in a single binary — real Postgres with RLS, no Docker. Works with supabase-js unchanged.
@@ -2548,7 +2553,7 @@
 ## text-to-speech 
 
 - [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp) - An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependenc
-- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, voice-mixing, auto-stitching, caption timestamps, SSML, readalong web UI
+- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, auto-stitching, caption timestamps, SSML, optional readalong web UI
 - [hwdsl2/self-hosted-ai-stack](https://github.com/hwdsl2/self-hosted-ai-stack) - Deploy a complete self-hosted AI stack with Docker Compose: Ollama, LiteLLM, AnythingLLM, Whisper, WhisperLive, Kokoro, Embeddings, Docling and MCP Gateway. Local-first, private by default, with light
 - [modelship-ai/modelship](https://github.com/modelship-ai/modelship) - Self-hosted, OpenAI-compatible inference for the agentic era: reasoning LLMs, universal tool calling, and the Responses API alongside embeddings, speech, and image models — many models sharing your GP
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
@@ -2741,7 +2746,7 @@
 
 ## fastapi 
 
-- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, voice-mixing, auto-stitching, caption timestamps, SSML, readalong web UI
+- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, auto-stitching, caption timestamps, SSML, optional readalong web UI
 - [Beever-AI/beever-atlas](https://github.com/Beever-AI/beever-atlas) - Your First LLM-Wiki Conversation Knowledge Base
 - [sanchomuzax/hermes-webui](https://github.com/sanchomuzax/hermes-webui) - Process monitoring and configuration dashboard for Hermes Agent
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
@@ -2925,7 +2930,7 @@
 
 ## bash 
 
-- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Unified Virtual Filesystem For AI Agents
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [mariusdjen/vpskit](https://github.com/mariusdjen/vpskit) - The easiest way to secure, deploy and manage a Linux VPS
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
