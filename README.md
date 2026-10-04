@@ -538,7 +538,7 @@
 - [KeaBase/kea-research](https://github.com/KeaBase/kea-research) - KEA Research - Multi-AI collaboration platform that combines responses from multiple AI models, cross-validates information, and delivers verified, consensus-backed answers.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [xt42io/envii](https://github.com/xt42io/envii) - Backup and restore environment variables across machines in seconds
-- [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - 
+- [kiyo-e/pairlane](https://github.com/kiyo-e/pairlane) - P2P file sharing in the browser over WebRTC, with optional E2E encryption. Runs on Cloudflare Workers + Durable Objects.
 - [CoreWorxLab/CAAL](https://github.com/CoreWorxLab/CAAL) - Local voice assistant that learns new abilities via auto-discovered n8n workflows exposed as tools via MCP
 - [Taskosaur/Taskosaur](https://github.com/Taskosaur/Taskosaur) - Open Source Project Management with Conversational AI Task Execution. Built for teams who want conversational workflow management alongside traditional PM features. Self-hostable with modular architec
 - [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
