@@ -16,7 +16,6 @@
 - [C++](#c++)
 - [Shell](#shell)
 - [Rust](#rust)
-- [Svelte](#svelte)
 - [Vue](#vue)
 - [PowerShell](#powershell)
 - [TeX](#tex)
@@ -30,6 +29,7 @@
 - [Java](#java)
 - [Objective-C](#objective-c)
 - [Zig](#zig)
+- [Svelte](#svelte)
 - [Elixir](#elixir)
 - [Astro](#astro)
 - [QML](#qml)
@@ -43,7 +43,6 @@
 - [Nethera-io/nethera](https://github.com/Nethera-io/nethera) - Turn any computer into a cloud server in 5 minutes.
 - [helpin-ai/helpin](https://github.com/helpin-ai/helpin) - Open-source alternative to Intercom, Fin and Linear. Support, projects, CRM, meetings, and docs in one workspace—with AI agents that use customer history to answer questions, plan work, and follow up.
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times us
-- [harshalgajjar/Reminal](https://github.com/harshalgajjar/Reminal) - Close the lid and walk away — every window, desktop and terminal on your machines, live in any browser. E2E-encrypted, no open ports, no client, no account.
 - [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go
 - [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) - Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zer
 - [pax-beehive/paxm](https://github.com/pax-beehive/paxm) - Persistent, provider-neutral memory for Codex, Claude Code, OpenCode, Pi, and MCP coding agents.
@@ -152,7 +151,7 @@
 - [nakagami/grdpwasm](https://github.com/nakagami/grdpwasm) - A web-based RDP client
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
-- [missingus3r/friday-showcase](https://github.com/missingus3r/friday-showcase) - Friday — A 24/7 AI Assistant Built Entirely on Claude Code
+- [missingus3r/friday-showcase](https://github.com/missingus3r/friday-showcase) - Friday — A 24/7 AI Assistant Built Entirely on Claude Code. A Tiny Moon Labs product (tinymoonlabs.com).
 - [jerryjliu/liteparse_samples](https://github.com/jerryjliu/liteparse_samples) - Interactive samples/demos for LiteParse: a fast, local, model-free document parser
 - [sj-unit72/prolink-stream-overlay](https://github.com/sj-unit72/prolink-stream-overlay) - Real-time Now Playing overlay and waveform visualization for Pioneer DJ gear
 - [zeabur/zeabur](https://github.com/zeabur/zeabur) - A platform that helps you deploy services with one click.
@@ -188,6 +187,7 @@
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [haydenbleasel/blume](https://github.com/haydenbleasel/blume) - The open-source docs framework for humans and agents.
+- [rootprint/rootprint](https://github.com/rootprint/rootprint) - Open-source, self-hosted logs and traces with full-text search directly on S3-compatible object storage.
 - [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 AI-native framework for building data portals. Scaffold a full portal from a brief and load datasets in minutes with agentic skills — any backend (CKAN, GitHub, Frictionless).
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
@@ -260,7 +260,7 @@
 - [sean-brydon/devl.dev](https://github.com/sean-brydon/devl.dev) - 
 - [bedriyan/medkit-app](https://github.com/bedriyan/medkit-app) - A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.
 - [CatsJuice/medal-forge](https://github.com/CatsJuice/medal-forge) - 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - OpenDesign is the 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agent
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work,
 - [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon, explained in plain English.
 - [open-legal-products/mike](https://github.com/open-legal-products/mike) - OSS Legal AI Platform
 - [open-slide/open-slide](https://github.com/open-slide/open-slide) - A slide framework built for agents.
@@ -564,7 +564,7 @@
 - [lucas-maes/le-wm](https://github.com/lucas-maes/le-wm) - Official code base for LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels
 - [zstar1003/ragflow-plus](https://github.com/zstar1003/ragflow-plus) - Ragflow-Plus 是 Ragflow 的二次开发版本，使其更为简洁实用
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalo
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [MiroShark/MiroShark](https://github.com/MiroShark/MiroShark) - Simulate anything, for $1 & less than 10 min - Universal Swarm Intelligence Engine
 - [DenisSergeevitch/repo-task-proof-loop](https://github.com/DenisSergeevitch/repo-task-proof-loop) - Spec driven skill with subagents spawning
@@ -573,7 +573,7 @@
 - [toorandom/malhaus](https://github.com/toorandom/malhaus) - Self-hosted malware static triage platform powered by LLMs
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [volcengine/MineContext](https://github.com/volcengine/MineContext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Semantic Intelligence Layer for Ontologies
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Connect ontology-grounded context graphs with deterministic AI agent governance to enforce business rules before execution and preserve decision evidence.
 - [joshndala/mnemo-agent](https://github.com/joshndala/mnemo-agent) - 
 - [Lucenor/mnesis](https://github.com/Lucenor/mnesis) - A Python library that solves context window degradation in long-running LLM agents by moving memory management out of the model layer and into a deterministic engine.
 - [gauravvij/AutoPrompter](https://github.com/gauravvij/AutoPrompter) - AutoResearch + PromptFoo = AutoPrompter. Run it with Neo AI Engineer
@@ -714,6 +714,7 @@
 ## JavaScript 
 
 - [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
+- [harshalgajjar/Reminal](https://github.com/harshalgajjar/Reminal) - Close the lid and walk away — every window, desktop and terminal on your machines, live in any browser. E2E-encrypted, no open ports, no client, no account.
 - [Aryanutkarsh/SeeCode](https://github.com/Aryanutkarsh/SeeCode) - Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec.
 - [allen-garvey/dithermark](https://github.com/allen-garvey/dithermark) - Transform your photos into pixel art
 - [Clearailhc/clearai-dsh](https://github.com/Clearailhc/clearai-dsh) - ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.
@@ -808,7 +809,7 @@
 
 - [Maildun/maildun](https://github.com/Maildun/maildun) - Self-hosted email platform for teams: audiences, campaigns, transactional email, automations, and first-party engagement tracking. Laravel 13 · Inertia 3 · React 19.
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-- [trypostit/trypost](https://github.com/trypostit/trypost) - Open-source Social Media Scheduling
+- [trypostit/trypost](https://github.com/trypostit/trypost) - Open-source social media scheduler built for AI agents and the teams behind them. Create, schedule and publish posts to every network through MCP or the REST API, or write them yourself in a composer 
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [David-Crty/databasement](https://github.com/David-Crty/databasement) - Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, Samba or local storage. SSH Tunn
@@ -975,7 +976,7 @@
 - [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — Context Gateway for AI Systems. Control what your AI can see. Open-source Engine for context selection, supported controls, and evidence.
 - [shift-labs-ai/markit](https://github.com/shift-labs-ai/markit) - 🖍️ Convert anything to markdown. Mark it.
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
-- [crabtalk/crab-20261010](https://github.com/crabtalk/crab-20261010) - The long-running embedded agent
+- [crabtalk/crabtalk-20261010](https://github.com/crabtalk/crabtalk-20261010) - The long-running embedded agent
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown you own.
 - [matrixorigin/memoria](https://github.com/matrixorigin/memoria) - Secure memory management for AI Agents • Ensures data integrity • Reduces hallucinations • Maintains consistent long-term context
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
@@ -996,11 +997,6 @@
 - [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
-
-## Svelte 
-
-- [rootprint/rootprint](https://github.com/rootprint/rootprint) - Open-source, self-hosted logs and traces with full-text search directly on S3-compatible object storage.
-- [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 
 ## Vue 
 
@@ -1095,6 +1091,10 @@
 ## Zig 
 
 - [antflydb/antfly](https://github.com/antflydb/antfly) - 
+
+## Svelte 
+
+- [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 
 ## Elixir 
 
