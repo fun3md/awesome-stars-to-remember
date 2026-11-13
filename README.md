@@ -12,7 +12,6 @@
 - [JavaScript](#javascript)
 - [Rust](#rust)
 - [C++](#c++)
-- [Kotlin](#kotlin)
 - [Go](#go)
 - [HTML](#html)
 - [PowerShell](#powershell)
@@ -42,13 +41,14 @@
 ## TypeScript 
 
 - [zainudinnoori/gitmanual](https://github.com/zainudinnoori/gitmanual) - Generate a step-by-step setup guide for a GitHub repository. Paste the repo URL into GitManual or change github.com to gitmanual.com in the URL.
-- [Junhan2/ztd-charts](https://github.com/Junhan2/ztd-charts) - 36 animated, interactive React charts in pure SVG, with a CLI and an MCP server
+- [Junhan2/ztd-charts](https://github.com/Junhan2/ztd-charts) - 44 animated, interactive React charts in pure SVG with zero runtime dependencies, a JSON spec, and CLI and MCP tools for AI agents
+- [CityPulso/PulsoIcon-Package](https://github.com/CityPulso/PulsoIcon-Package) - Animated React icons — every Lucide icon plus extra icons and brand logos, each with its own hand-written motion. Drop-in replacement for lucide-react, built on Motion.
 - [ai-timon/timon](https://github.com/ai-timon/timon) - 
 - [D3voz/openjutsu](https://github.com/D3voz/openjutsu) - One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.
 - [AGGIB/Stroq](https://github.com/AGGIB/Stroq) - Find known secrets in your AI coding agent sessions (Claude Code, Codex, Cursor), then guard the next one with local hooks that trace risky commands to the content that dictated them. Open source, no 
 - [finic-ai/kairos](https://github.com/finic-ai/kairos) - Real time event intelligence, fraud and risk decisioning for financial behavior.
 - [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) - Fast, accurate OCR with correctness assessment.
 - [rudderlabs/devbox](https://github.com/rudderlabs/devbox) - Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside.
 - [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) - An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.
@@ -155,7 +155,7 @@
 - [open-legal-products/mike](https://github.com/open-legal-products/mike) - OSS Legal AI Platform
 - [open-slide/open-slide](https://github.com/open-slide/open-slide) - A slide framework built for agents.
 - [chekusu/wanman](https://github.com/chekusu/wanman) - wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent work
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted 
 - [GRVYDEV/marky](https://github.com/GRVYDEV/marky) - A lightweight easy to use markdown viewer
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [presenton/presenton](https://github.com/presenton/presenton) - Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)
@@ -183,7 +183,7 @@
 - [tlehman/litprog-skill](https://github.com/tlehman/litprog-skill) - Literate programming skill for agent harnesses like Claude Code, OpenCode and Hermes Agent
 - [NousResearch/hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) - Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company
 - [amanning3390/flowstate-qmd](https://github.com/amanning3390/flowstate-qmd) - FlowState QMD — Anticipatory Memory for AI Agents. Hermes 2026 Hackathon Entry.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [danielmiessler/Substrate](https://github.com/danielmiessler/Substrate) - An Open-source Framework for Human Understanding, Meaning, and Progress.
@@ -270,7 +270,7 @@
 - [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons
 - [punkpeye/pipenet](https://github.com/punkpeye/pipenet) - Expose your local server to the public internet instantly
 - [0xGF/avatar-3d](https://github.com/0xGF/avatar-3d) - 
-- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Companions, and Devices
+- [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets & Edge Functions for AI Toys, Desk Companions and Devices
 - [KeaBase/kea-research](https://github.com/KeaBase/kea-research) - KEA Research - Multi-AI collaboration platform that combines responses from multiple AI models, cross-validates information, and delivers verified, consensus-backed answers.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [xt42io/envii](https://github.com/xt42io/envii) - Backup and restore environment variables across machines in seconds
@@ -343,6 +343,7 @@
 - [U-C4N/U-Pool](https://github.com/U-C4N/U-Pool) - Desktop provider switcher for Claude Code and Codex. Keep every endpoint, API key, and model in one place, switch the active provider in one click, and probe latency before you start. Atomic writes an
 - [Aaryanverma/graybox](https://github.com/Aaryanverma/graybox) - A local-first, long-term memory for anything you'd otherwise forget.
 - [cvg/vidmap](https://github.com/cvg/vidmap) - VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion (ECCV 2026)
+- [sqliteai/warp](https://github.com/sqliteai/warp) - Run the full 2.78-trillion-parameter Kimi K3 model, DeepSeek V4.1 Flash or GLM-5.3-Flash beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inferen
 - [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
 - [veteranbv/inky-bird](https://github.com/veteranbv/inky-bird) - Turn bird observations and detections into reviewed, reusable field-journal plates for color e-paper displays
 - [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) - Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.
@@ -483,7 +484,7 @@
 - [toorandom/malhaus](https://github.com/toorandom/malhaus) - Self-hosted malware static triage platform powered by LLMs
 - [ministackorg/ministack](https://github.com/ministackorg/ministack) - Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT   licensed.
 - [volcengine/MineContext](https://github.com/volcengine/MineContext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The AI Governance Platform for Agents, Knowledge, and Context
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The open-source ontology runtime for AI agents.
 - [joshndala/mnemo-agent](https://github.com/joshndala/mnemo-agent) - 
 - [Lucenor/mnesis](https://github.com/Lucenor/mnesis) - A Python library that solves context window degradation in long-running LLM agents by moving memory management out of the model layer and into a deterministic engine.
 - [dialectforge/FlowState](https://github.com/dialectforge/FlowState) - Free, open-source, local-first project memory for your AI apps (MCP server for Claude, ChatGPT, Cursor, Grok and any MCP client). Your data stays on your machine.
@@ -876,10 +877,6 @@
 - [kalanda/esp8266-sniffer](https://github.com/kalanda/esp8266-sniffer) - An easy experiment which uses the ESP8266 wifi module to look for near smartphones around you
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 
-## Kotlin 
-
-- [CityPulso/PulsoIcon](https://github.com/CityPulso/PulsoIcon) - Animated React icons — every Lucide icon plus extra icons and brand logos, each with its own hand-written motion. Drop-in replacement for lucide-react, built on Motion.
-
 ## Go 
 
 - [devvmhq/devvm](https://github.com/devvmhq/devvm) - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding
@@ -1031,7 +1028,6 @@
 - [mirkobrombin/raven](https://github.com/mirkobrombin/raven) - A Windows your apps recognize.
 - [salesforcedoc/rbpi4b](https://github.com/salesforcedoc/rbpi4b) - based on erhan's work
 - [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) - Open source SDK to build Muse gadgets
-- [sqliteai/warp](https://github.com/sqliteai/warp) - Run the full 2.78-trillion-parameter Kimi K3 model, DeepSeek V4.1 Flash or GLM-5.3-Flash beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inferen
 - [OpenEPaperLink/OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
