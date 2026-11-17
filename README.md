@@ -113,6 +113,7 @@
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [himself65/finance-skills](https://github.com/himself65/finance-skills) - A collection of skills for AI financial analysis.
 - [MatiasDesuu/ThinkDashboard](https://github.com/MatiasDesuu/ThinkDashboard) - A lightweight, self-hosted bookmark dashboard with keyboard shortcuts.
+- [figranium/figranium](https://github.com/figranium/figranium) - Stack blocks visually to build complex browser workflows and execute them via API
 - [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - An open source, self-hosted, real-time port monitoring and discovery tool.
 - [vikasprogrammer/walkie](https://github.com/vikasprogrammer/walkie) - P2P communication for AI agents. No server. No setup. Just talk.
 - [dimartarmizi/map-to-poster](https://github.com/dimartarmizi/map-to-poster) - MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options.
@@ -147,7 +148,7 @@
 - [vercel-labs/ui](https://github.com/vercel-labs/ui) - A library of behaviors for agents to build the next generation of user interfaces.
 - [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) - Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.
 - [zainudinnoori/gitmanual](https://github.com/zainudinnoori/gitmanual) - Generate a step-by-step setup guide for a GitHub repository. Paste the repo URL into GitManual or change github.com to gitmanual.com in the URL.
-- [Junhan2/ztd-charts](https://github.com/Junhan2/ztd-charts) - 44 animated, interactive React charts in pure SVG with zero runtime dependencies, a JSON spec, and CLI and MCP tools for AI agents
+- [Junhan2/ztd-charts](https://github.com/Junhan2/ztd-charts) - 47 animated, interactive React charts in pure SVG with zero runtime dependencies, a JSON spec, and CLI and MCP tools for AI agents
 - [CityPulso/PulsoIcon-Package](https://github.com/CityPulso/PulsoIcon-Package) - Animated React icons — every Lucide icon plus extra icons and brand logos, each with its own hand-written motion. Drop-in replacement for lucide-react, built on Motion.
 - [ai-timon/timon](https://github.com/ai-timon/timon) - 
 - [D3voz/openjutsu](https://github.com/D3voz/openjutsu) - One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.
@@ -211,7 +212,7 @@
 - [HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace) - "AgentSpace: Human + Agents. One Team. One Workspace"
 - [humation-labs/humation](https://github.com/humation-labs/humation) - Hand-drawn kawaii avatar engine for your app. No AI, no API calls.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers an
 - [khairul169/garage-webui](https://github.com/khairul169/garage-webui) - WebUI for Garage Object Storage Service
 - [Studio-Saelix/sencho](https://github.com/Studio-Saelix/sencho) - Self-hosted Docker Compose management platform. For single or multi-host compose-first workflow.
 - [terminator-ssh/terminator-desktop](https://github.com/terminator-ssh/terminator-desktop) - SSH client with encrypted sync
@@ -350,7 +351,6 @@
 - [cosmiciron/vmprint](https://github.com/cosmiciron/vmprint) - This layout engine can solve the hardest layout problems imaginable. Its output is DTP grade and deterministic. It's faster than engines written in C++ because it's not traditional. Backed by game eng
 - [forloopcodes/contextplus](https://github.com/forloopcodes/contextplus) - Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style
 - [humantonylee/free-router](https://github.com/humantonylee/free-router) - The free AI model router, API for everyday AI work. Find the best option, compare results, switch with less friction.
-- [figranium/figranium](https://github.com/figranium/figranium) - Stack blocks visually to build complex browser workflows and execute them via API
 - [openworkflowdev/openworkflow](https://github.com/openworkflowdev/openworkflow) - Open-source TypeScript framework for building durable, resumable workflows. Supports Node.js and Bun.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [carlosazaustre/tenacitOS](https://github.com/carlosazaustre/tenacitOS) - OpenClaw Mission Control Dashboard
@@ -509,7 +509,7 @@
 - [ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os) - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
 - [MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - Miso TTS is an 8 billion, highly emotive text-to-speech model
 - [VILA-Lab/FigMirror](https://github.com/VILA-Lab/FigMirror) - An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.
-- [lynote-ai/ai-text-detector](https://github.com/lynote-ai/ai-text-detector) - A cautious, explainable AI text detector for local workflows and coding agents. Need production detection in your app? Try the Lynote AI Detector API → lynote.ai/ai-detector-api
+- [lynote-ai/ai-text-detector](https://github.com/lynote-ai/ai-text-detector) - An open-source AI Text Detector for identifying AI-generated content in essays, articles, and documents. Supports document-level and sentence-level detection, with Human, AI, and Mixed content classif
 - [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) - Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.
 - [OpenNSWM-Lab/FAROS](https://github.com/OpenNSWM-Lab/FAROS) - A blueprint-driven AutoResearch runtime for orchestrating AI research workflows from idea generation and experiments to paper writing and peer review.
 - [Patdolitse/piia-engram](https://github.com/Patdolitse/piia-engram) - Local-first AI memory you can see, edit, and override — portable across Claude Code, Codex, Cursor, Windsurf, and other MCP coding tools.
@@ -1058,7 +1058,7 @@
 - [dodo-reach/hermes-desktop](https://github.com/dodo-reach/hermes-desktop) - The safest, simplest way to manage Hermes from your Mac. Pure SSH. No gateways, no exposed ports, no browser layer.
 - [farzaa/clicky](https://github.com/farzaa/clicky) - The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com
 - [ghostwright/shadow](https://github.com/ghostwright/shadow) - Your computer was paying attention the whole time. 14-modality capture. Proactive intelligence. Computer-use training data. Native macOS. All on-device. Open source.
-- [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
+- [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a You/Them transcript in one markdown file. On-device, free and open source.
 
 ## Shell 
 
