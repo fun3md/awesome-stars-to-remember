@@ -194,6 +194,7 @@
 - [deployment](#deployment)
 - [penetration-testing](#penetration-testing)
 - [hacking](#hacking)
+- [static-site-generator](#static-site-generator)
 - [reinforcement-learning](#reinforcement-learning)
 - [data-analysis](#data-analysis)
 - [trading](#trading)
@@ -3895,6 +3896,10 @@
 ## hacking 
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+## static-site-generator 
+
+- [dougdonohoe/ddphotos](https://github.com/dougdonohoe/ddphotos) - Beautiful self-hosted static photo galleries. No subscriptions, no lock-in, deploys in minutes.
 
 ## reinforcement-learning 
 
