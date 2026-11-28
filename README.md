@@ -53,7 +53,7 @@
 - [ScottDuncanAI/PID-to-Knowledge-Graph](https://github.com/ScottDuncanAI/PID-to-Knowledge-Graph) - P&ID to Knowledge Graph: a Claude skill that turns P&ID PDFs (digital or scanned) into a process knowledge graph of flow, instruments and control loops.
 - [higurashi-ai/Haru](https://github.com/higurashi-ai/Haru) - Haru: a low-latency, multilingual, full-duplex spoken dialogue model
 - [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.
-- [OmniJev/Flide](https://github.com/OmniJev/Flide) - 🔥🔥 The extremely fast inference engine for decision model
+- [OmniJev/Flide](https://github.com/OmniJev/Flide) - 🔥🔥 The extremely fast inference engine for Jev-style decision models, up to 9.5x faster than vLLM and SGLang
 - [dotslashsimran/simcraft](https://github.com/dotslashsimran/simcraft) - my claude skills for everyday work
 - [helixmap/sigwood](https://github.com/helixmap/sigwood) - Local-first threat hunting for the logs you already have: Zeek, Pi-hole, syslog or the systemd journal, CloudTrail. Every run names the technique behind each detector. No agent, no daemon, no black bo
 - [ai-boost/awesome-image-video-prompts](https://github.com/ai-boost/awesome-image-video-prompts) - Copy-ready prompts for the leading AI video and image models, each with its real output and source. Plus agent recipes for editing video.
@@ -108,7 +108,6 @@
 - [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills) - Codebase harness + loop engineer
 - [jfoboston/email-to-print](https://github.com/jfoboston/email-to-print) - Email a PDF to your printer. Self-hosted, no vendor cloud.
 - [Sahir619/fable-method](https://github.com/Sahir619/fable-method) - The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.
-- [AHepi/DeepReason](https://github.com/AHepi/DeepReason) - 
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
 - [Dryxio/reagent](https://github.com/Dryxio/reagent) - Reconstruct and validate C/C++ code from compiled programs with AI.
 - [nagisanzenin/engram](https://github.com/nagisanzenin/engram) - Evidence-based learning engine — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.
@@ -227,7 +226,7 @@
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 71 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-- [MiroShark/MiroShark](https://github.com/MiroShark/MiroShark) - Simulate anything, for $1 & less than 10 min - Universal Swarm Intelligence Engine
+- [aeonfun/MiroShark](https://github.com/aeonfun/MiroShark) - Simulate anything, for $1 & less than 10 min - Universal Swarm Intelligence Engine
 - [DenisSergeevitch/repo-task-proof-loop](https://github.com/DenisSergeevitch/repo-task-proof-loop) - Spec driven skill with subagents spawning
 - [facebookresearch/HyperAgents](https://github.com/facebookresearch/HyperAgents) - Self-referential self-improving agents that can optimize for any computable task
 - [HKUDS/AgentPilot](https://github.com/HKUDS/AgentPilot) - AgentPilot: Make Your Agents Move Better and Faster
@@ -469,6 +468,7 @@
 - [parthh01/sphinx](https://github.com/parthh01/sphinx) - You can outsource your thinking, but not your understanding. A hook for agent-assisted development that quizzes you on the changes before you push to prod.
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 - [kailashsr38/ascii-magic-art](https://github.com/kailashsr38/ascii-magic-art) - 734 animated ASCII art pieces for web pages, READMEs, wallpapers and terminals. Browse them in your terminal with npx ascii-magic-art and add one to your project in one prompt.
+- [ar3ac/lucius](https://github.com/ar3ac/lucius) - Your personal gadget quartermaster. Create custom commands, trigger them with a tap from your phone, and watch your machine spring into action. Runs on anything — Raspberry Pi, laptop, server, the fri
 - [ancsemi/Haven](https://github.com/ancsemi/Haven) - Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.
 - [Aryanutkarsh/SeeCode](https://github.com/Aryanutkarsh/SeeCode) - Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec.
 - [allen-garvey/dithermark](https://github.com/allen-garvey/dithermark) - Transform your photos into pixel art
@@ -567,7 +567,6 @@
 - [github/lever](https://github.com/github/lever) - Copilot skills for building feedback loops, delegating safely, and moving repeatable work into automations.
 - [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) - Create Apple style dimensional drawings of UI components.
 - [Seokwoooo/lucian-uxui-prompt](https://github.com/Seokwoooo/lucian-uxui-prompt) - 480 interactive UI elements you can try live, then copy as an AI prompt or working code: 80 essentials, 200 website sections and animations, 200 interface parts. Light/dark, MIT.
-- [ar3ac/lucius](https://github.com/ar3ac/lucius) - Your personal gadget quartermaster. Create custom commands, trigger them with a tap from your phone, and watch your machine spring into action. Runs on anything — Raspberry Pi, laptop, server, the fri
 - [sorathiya903/pastedb](https://github.com/sorathiya903/pastedb) - PasteDB is a modern paste-sharing platform built for quickly sharing code, notes, text snippets, and images through simple links.
 - [vojtaholik/good-css](https://github.com/vojtaholik/good-css) - Opinionated modern CSS techniques, packaged as an agent skill, each with a live specimen.
 - [bangtutorial/bang-motion](https://github.com/bangtutorial/bang-motion) - Agent skill for browser motion graphics — openers, promos, bumpers, kinetic typography, and five explainer styles that move like video, not slides. Single index.html output. Works with Claude Code, Co
